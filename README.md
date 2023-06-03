@@ -1,7 +1,8 @@
 ### Hi there! I'm Angelo 👋
 
 ---
-
+Software Engineering Projects
+Data Analytics Project
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
