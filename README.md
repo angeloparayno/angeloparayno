@@ -4,8 +4,7 @@
 ### 🗣️: <insert shoutout here!>
 
 ---
-## Repository Contents
-### List of Projects
+## List of Projects
 
 <details> 
  <summary><b>Software Engineering</b></summary>
@@ -33,11 +32,12 @@
 
 <details>
  <summary><b>Digital Marketing</b></summary>
-  * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan)
+ 
+  * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
+ 
 </details>
   
  ---
- ## Exercises and Activites
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
