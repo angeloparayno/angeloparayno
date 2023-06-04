@@ -2,7 +2,7 @@
 ---
 ### 🗣️: Welcome to my GitHub profile!
 ---
-## List of Projects
+## 💻 List of Projects
 
 <details> 
  <summary><b>Software Engineering</b></summary>
