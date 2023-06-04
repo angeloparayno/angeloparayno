@@ -9,7 +9,7 @@
 <details> 
  <summary><b>Software Engineering Projects</b></summary>
  
-  * <bMain Project:</b> [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
+  * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
  
