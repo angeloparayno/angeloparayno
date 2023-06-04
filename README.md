@@ -10,10 +10,10 @@
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
     * <b>Role:</b> Main Developer | Team Leader
-    * <b>Type of Project:</b> Group of 5
+    * <b>Type of Project:</b> Thesis | Capstone Project <i>(Group of 4)</i>
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
     * <b>Role:</b> Project Manager
-    * <b>Type of Project:</b> Client Facing (Group of 4)
+    * <b>Type of Project:</b> Client Facing <i>(Group of 4)</i>
 </details>
   
 <details>
