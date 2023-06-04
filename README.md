@@ -6,7 +6,7 @@
 ---
 ### List of Projects
 * Software Engineering Projects
-  * FPS-Interactive-white-board
+  * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
 * Simple Coding 
 * Data Analytics
 * Project Management
