@@ -1,14 +1,18 @@
 # Hello World! I'm Angelo 👋
 ### Welcome to my GitHub profile!
 ---
-## 🗣️: 
+### 🗣️: 
 
 ---
-### List of Projects
-* Software Engineering Projects
+## List of Projects
+
+<details> 
+<summary> Software Engineering Projects </summary>
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
     * [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
+ </details>
+ 
 * Simple Coding 
 * *
 * *
