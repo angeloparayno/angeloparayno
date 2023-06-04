@@ -48,7 +48,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 ---
 ## 🔗 Links
-* <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b?
+* <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 
 <!--
