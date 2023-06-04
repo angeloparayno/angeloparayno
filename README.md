@@ -1,6 +1,6 @@
 # Hello World! I'm Angelo 👋
 ---
-### 🗣️: Welcome to my GitHub profile!
+<h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
 ---
 ## List of Projects
 Note: <i> (click to see details)</i>
