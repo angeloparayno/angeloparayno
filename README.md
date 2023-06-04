@@ -1,5 +1,5 @@
-## Hi there! I'm Angelo 👋
-
+## Hi World! I'm Angelo 👋
+### Welcome to my GitHub profile!
 ---
 ### List of Projects
 * Software Engineering Projects
