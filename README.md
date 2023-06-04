@@ -13,7 +13,7 @@
     * <b>Type of Project:</b> Group of 5
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
     * <b>Role:</b> Project Manager
-    * <b>Type of Project:</b> Group of 5
+    * <b>Type of Project:</b> Group of 4
 </details>
   
 <details>
@@ -32,6 +32,7 @@
  <summary><b>Digital Marketing</b></summary>
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
+    *  <b>Type of Project:</b> Solo
  
 </details>
   
