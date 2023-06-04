@@ -1,6 +1,7 @@
 ### Hi there! I'm Angelo 👋
 
 ---
+###List of Projects
 * Software Engineering Projects
   * FPS-Interactive-white-board
 * Data Analytics Project
