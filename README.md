@@ -7,7 +7,7 @@
 ## List of Projects
 
 <details> 
-<summary><b> Software Engineering Projects</b></summary>
+ <summary><b>Software Engineering Projects</b></summary>
  
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
     * [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
@@ -15,9 +15,12 @@
  
 </details>
  
-* Simple Coding 
-* *
-* *
+<details>
+ <summary><b>Simple Coding<b></summary>
+  *qwe
+  *qwe
+
+
 * Data Analytics
 * * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
 * * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS]
