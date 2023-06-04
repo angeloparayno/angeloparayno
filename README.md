@@ -7,7 +7,7 @@
 Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
- <summary><b>Software Engineering 💻</b></summary> 
+ <summary><b>## Software Engineering 💻</b></summary> 
  
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
