@@ -13,14 +13,6 @@
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
 </details>
- 
-<details>
- <summary><b>Simple Coding</b></summary>
- 
- *
- *
- 
-</details>
   
 <details>
  <summary><b>Data Analytics</b></summary>
@@ -37,7 +29,13 @@
  
 </details>
   
- ---
+<details>
+ <summary><b>Simple Coding</b></summary>
+ 
+ * 
+ * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
+ 
+</details>
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
