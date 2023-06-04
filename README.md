@@ -5,7 +5,7 @@
 ## List of Projects
 
 <details> 
- <summary><b>Software Engineering</b></summary>
+ <summary><b>Software Engineering</b></summary> 💻
  
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
@@ -17,7 +17,7 @@
 </details>
   
 <details>
- <summary><b>Data Analytics</b></summary>
+ <summary><b>Data Analytics</b></summary> 📊
  
   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
     * <b>Assignment:</b> Project Management | Social Media Analytics
@@ -29,7 +29,7 @@
 </details>
 
 <details>
- <summary><b>Digital Marketing</b></summary>
+ <summary><b>Digital Marketing</b></summary> 📈
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
     *  <b>Type of Project:</b> Case Study (Solo)
@@ -37,7 +37,7 @@
 </details>
   
 <details>
- <summary><b>Simple Coding</b></summary>
+ <summary><b>Simple Coding</b></summary> 👨🏻‍💻
  
  * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
