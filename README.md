@@ -12,7 +12,7 @@
     * <b>Assignment:</b> Main Developer | Team Leader
     * <b>Type of Project:</b> Thesis | Capstone (Group of 4)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS) (2014)
-    * <b>Assignment:</b> Project Manager
+    * <b>Assignment:</b> Project Management
     * <b>Type of Project:</b> Client Facing (Group of 4)
 </details>
   
