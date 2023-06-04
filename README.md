@@ -10,17 +10,17 @@
 <details> 
  <summary><b>Software Engineering</b></summary>
  
-  * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
+  * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
 </details>
  
 <details>
  <summary><b>Simple Coding</b></summary>
- <li>
-  <ul> 2123213 </ul>
-  <ul> 112313131 </ul>
- </li>
+ 
+ *
+ *
+ 
 </details>
   
 <details>
