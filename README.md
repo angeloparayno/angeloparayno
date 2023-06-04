@@ -1,9 +1,9 @@
 ### Hi there! I'm Angelo 👋
 
 ---
-- Software Engineering Projects
-** FPS-Interactive-white-board
-- Data Analytics Project
+* Software Engineering Projects
+* * FPS-Interactive-white-board
+* Data Analytics Project
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
