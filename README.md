@@ -17,15 +17,23 @@
  
 <details>
  <summary><b>Simple Coding<b></summary>
-  * qwe
-  * qwe
+  * 
+  * 
+</details>
+  
+<details>
+ <summary><b>Data Analytics</b></summary>
+   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
+   * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate)
+</details>
 
-
-* Data Analytics
-* * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
-* * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS]
-
-* Digital Marketing
+<details>
+ <summary><b>Digital Marketing</b></summary>
+  * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan)
+</details>
+  
+ ---
+ ## Exercises and Activites
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
