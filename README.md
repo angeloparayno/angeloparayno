@@ -17,8 +17,10 @@
  
 <details>
  <summary><b>Simple Coding</b></summary>
-    * 2123213
- * 112313131
+ <li>
+  <ul> 2123213 </ul>
+  <ul> 112313131 </ul>
+ </li>
 </details>
   
 <details>
