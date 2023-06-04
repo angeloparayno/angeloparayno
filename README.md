@@ -4,7 +4,10 @@
 ### List of Projects
 * Software Engineering Projects
   * FPS-Interactive-white-board
-* Data Analytics Project
+* Simple Coding 
+* Data Analytics
+* Project Management
+* Digital Marketing
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
