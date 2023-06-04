@@ -47,8 +47,9 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 
 ---
-## 🔗 Links
+## 🔗 Other Profile Links
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
+* <b>[Coursera Profile](https://www.coursera.org/user/23a8b92af14eb4cae12aebf6efc7855f)</b>
 
 
 <!--
