@@ -2,7 +2,7 @@
 
 ---
 - Software Engineering Projects
-*   FPS-Interactive-white-board
+** FPS-Interactive-white-board
 - Data Analytics Project
 
 <!--
