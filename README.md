@@ -8,17 +8,23 @@
  <summary><b>Software Engineering</b></summary>
  
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
-    * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
-    * <b>Role:</b> Main Developer / Team Leader
-    * <b>Type of Project:</b> Group
+    * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
+    * <b>Role:</b> Main Developer | Team Leader
+    * <b>Type of Project:</b> Group of 5
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
+    * <b>Role:</b> Project Manager
+    * <b>Type of Project:</b> Group of 5
 </details>
   
 <details>
  <summary><b>Data Analytics</b></summary>
  
-  * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
-  * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate)
+  * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
+    * <b>Role:</b> Social Media Analytics
+    * <b>Type of Project:</b> Group of 17
+  * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate) (2022)
+    * <b>Role:</b> Social Media Analytics
+    * <b>Type of Project:</b> Group of 17
  
 </details>
 
