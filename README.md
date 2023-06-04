@@ -8,7 +8,7 @@
 ### List of Projects
 
 <details> 
-<summary><b>Software Engineering Projects</b></summary>
+<summary><b>Software Engineering</b></summary>
  
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
@@ -17,8 +17,8 @@
  
 <details>
 <summary><b>Simple Coding<b></summary>
-  * 2
-  * 1
+ * 2
+ * 1
 </details>
   
 <details>
