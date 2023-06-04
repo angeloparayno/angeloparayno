@@ -17,8 +17,8 @@
  
 <details>
  <summary><b>Simple Coding<b></summary>
-  *qwe
-  *qwe
+  * qwe
+  * qwe
 
 
 * Data Analytics
