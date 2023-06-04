@@ -48,7 +48,7 @@ Note: <i> (click to see details)</i>
 
 ---
 ## 🔗 Links
-* [Tableau profile](https://public.tableau.com/app/profile/angeloparayno)
+* [Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)
 
 
 <!--
