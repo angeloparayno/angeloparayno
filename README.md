@@ -1,9 +1,9 @@
-# Hello World! I'm Angelo 👋
+# Hello World! I'm Angelo 🌴
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
 
 ---
-## List of Projects
+## ⚙️ List of Projects
 Note: <i> (click to see details)</i>
 
 <details> 
