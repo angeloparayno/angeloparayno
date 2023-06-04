@@ -1,4 +1,4 @@
-## Hi World! I'm Angelo 👋
+# Hello World! I'm Angelo 👋
 ### Welcome to my GitHub profile!
 ---
 ## 🗣️: 
