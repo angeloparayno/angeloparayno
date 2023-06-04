@@ -34,7 +34,7 @@ Note: <i> (click to see details)</i>
  <summary><b>Digital Marketing 📈</b></summary> 
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
-    *  <b>Type of Project:</b> Case Study (Individual)
+    *  <b>Type of Project:</b> Case Study
  
 </details>
   
