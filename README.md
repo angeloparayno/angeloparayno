@@ -49,8 +49,6 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 🔗 Other Profile Links
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
-* <b>[Coursera Profile](https://www.coursera.org/user/23a8b92af14eb4cae12aebf6efc7855f)</b>
-
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
