@@ -46,6 +46,11 @@ Note: <i> (click to see details)</i>
  
 </details>
 
+---
+## 🔗 Links
+* [Tableau profile](https://public.tableau.com/app/profile/angeloparayno)
+
+
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
