@@ -4,7 +4,7 @@
 
 ---
 ## ⚙️ List of Projects
-Note: <i> (click to see details)</i>
+Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
  <summary><b>Software Engineering 💻</b></summary> 
