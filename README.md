@@ -7,11 +7,13 @@
 ## List of Projects
 
 <details> 
- <summary><b> Software Engineering Projects</b></summary>
-   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
-     * [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
-   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
- </details>
+<summary><b> Software Engineering Projects</b></summary>
+ 
+  * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard)
+    * [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)
+  * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
+ 
+</details>
  
 * Simple Coding 
 * *
