@@ -13,7 +13,7 @@
     * <b>Type of Project:</b> Group of 5
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS)
     * <b>Role:</b> Project Manager
-    * <b>Type of Project:</b> Group of 4
+    * <b>Type of Project:</b> Client Facing (Group of 4)
 </details>
   
 <details>
@@ -21,10 +21,10 @@
  
   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
     * <b>Role:</b> Social Media Analytics
-    * <b>Type of Project:</b> Group of 17
+    * <b>Type of Project:</b> Client Facing (Group of 17)
   * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate) (2022)
     * <b>Role:</b> Social Media Analytics
-    * <b>Type of Project:</b> Group of 17
+    * <b>Type of Project:</b> Case Study (Group of 5)
  
 </details>
 
@@ -32,7 +32,7 @@
  <summary><b>Digital Marketing</b></summary>
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
-    *  <b>Type of Project:</b> Solo
+    *  <b>Type of Project:</b> Case Study (Solo)
  
 </details>
   
