@@ -23,8 +23,8 @@
   
 <details>
  <summary><b>Data Analytics</b></summary>
-   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
-   * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate)
+  * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness)
+  * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate)
 </details>
 
 <details>
