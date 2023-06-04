@@ -1,8 +1,6 @@
 # Hello World! I'm Angelo 👋
-### Welcome to my GitHub profile!
 ---
-### 🗣️: <insert shoutout here!>
-
+### 🗣️: Welcome to my GitHub profile!
 ---
 ## List of Projects
 
@@ -32,7 +30,7 @@
 <details>
  <summary><b>Simple Coding</b></summary>
  
- * 
+ * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
  
 </details>
