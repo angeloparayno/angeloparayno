@@ -12,10 +12,10 @@ Note: <i> (click to see detailed list of projects)</i>
   * [FPS-Interactive-Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
     * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
     * <b>Assignment:</b> Main Developer | Team Leader
-    * <b>Type of Project:</b> Thesis | Capstone (Group of 4)
+    * <b>Classification:</b> Thesis | Capstone (Group of 4)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS) (2014)
     * <b>Assignment:</b> Project Management
-    * <b>Type of Project:</b> Client Facing (Group of 4)
+    * <b>Classification:</b> Client Facing (Group of 4)
 </details>
   
 <details>
@@ -23,10 +23,10 @@ Note: <i> (click to see detailed list of projects)</i>
  
   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
     * <b>Assignment:</b> Project Management | Social Media Analytics
-    * <b>Type of Project:</b> Client Facing (Group of 17)
+    * <b>Classification</b> Client Facing (Group of 17)
   * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate) (2022)
     * <b>Assignment:</b> Gender Demographics Analytics
-    * <b>Type of Project:</b> Case Study (Group of 5)
+    * <b>Classification:</b> Case Study (Group of 5)
  
 </details>
 
