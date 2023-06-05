@@ -42,9 +42,9 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Simple Coding 👨🏻‍💻</b></summary> 
  
  * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
-   * <b>Description:</b> A simple animation using JFrame
+   * <b>Description:</b> A simple animation of an Anime character using pure Java with JFrame
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
-   * <b>Description:</b> A list of sample Assembly codes
+   * <b>Description:</b> A list of simple Assembly programs
  
 </details>
 
