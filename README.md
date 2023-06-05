@@ -34,7 +34,7 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Digital Marketing 📈</b></summary> 
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
-    *  <b>Type of Project:</b> Case Study
+    *  <b>Classification:</b> Case Study
  
 </details>
   
@@ -42,7 +42,9 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Simple Coding 👨🏻‍💻</b></summary> 
  
  * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
+   * <b>Description:</b> <i>A simple animation using JFrame</i>
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
+   * <b>Description:</b>
  
 </details>
 
