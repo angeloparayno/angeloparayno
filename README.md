@@ -42,7 +42,7 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Simple Coding 👨🏻‍💻</b></summary> 
  
  * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
-   * <b>Description:</b> <i>A simple animation using JFrame</i>
+   * <b>Description:</b> A simple animation using JFrame
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
    * <b>Description:</b>
  
