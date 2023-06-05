@@ -44,7 +44,7 @@ Note: <i> (click to see detailed list of projects)</i>
  * [simple-animation-using-Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
    * <b>Description:</b> A simple animation using JFrame
  * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
-   * <b>Description:</b>
+   * <b>Description:</b> A list of sample Assembly codes
  
 </details>
 
