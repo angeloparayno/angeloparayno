@@ -58,8 +58,9 @@ Note: <i> (click to see detailed list of projects)</i>
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
+https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image![image](https://github.com/angeloparayno/angeloparayno/assets/6312837/a96883ee-85e1-4315-b6e7-7a8cc4c110c5)
 
-<a href="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> John Angelo Parayno</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script>
+
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
