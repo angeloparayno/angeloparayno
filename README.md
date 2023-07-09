@@ -59,7 +59,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 ---
 
-![https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno%40gmail.com]()
+<a href="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> John Angelo Parayno</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script>
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
