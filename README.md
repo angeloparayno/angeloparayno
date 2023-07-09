@@ -1,9 +1,8 @@
 # Hello World! I'm Angelo 🌴
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angeloparayno/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/angeloparayno)
 
 
-![Instagram Icon](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png)
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
@@ -57,6 +56,9 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 🔗 Other Project Links
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
+
+---
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> John Angelo Parayno</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
