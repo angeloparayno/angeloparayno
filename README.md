@@ -60,13 +60,12 @@ Note: <i> (click to see detailed list of projects)</i>
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/your-profile/)
-
-
-
-<!--[![Coursera](https://img.shields.io/badge/Coursera-Profile-brightgreen?style=flat&logo=coursera)](https://www.coursera.org/user/your-profile/)
-[![Tableau](https://img.shields.io/badge/Tableau-Profile-orange?style=flat&logo=tableau)](https://public.tableau.com/profile/your-profile)-->
+[![Coursera](https://img.shields.io/badge/Coursera-Profile-brightgreen?style=flat&logo=coursera)](https://www.coursera.org/user/your-profile/)
+[![Tableau](https://img.shields.io/badge/Tableau-Profile-orange?style=flat&logo=tableau)](https://public.tableau.com/profile/your-profile)
+-->
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
