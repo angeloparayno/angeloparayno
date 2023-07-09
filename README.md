@@ -1,4 +1,6 @@
 # Hello World! I'm Angelo 🌴
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/)
+
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
 
