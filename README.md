@@ -1,8 +1,10 @@
 # Hello World! I'm Angelo 🌴
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/angeloparayno)
-
-
+<details> 
+ <summary><b>Bachelor of Science in Information Technology 🎓</b></summary>
+ 
+  * University of Santo Tomas, Manila Philippines
+  
+</details>
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
@@ -58,8 +60,13 @@ Note: <i> (click to see detailed list of projects)</i>
 * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
-https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image![image](https://github.com/angeloparayno/angeloparayno/assets/6312837/a96883ee-85e1-4315-b6e7-7a8cc4c110c5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/) 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/your-profile/)
 
+
+
+<!--[![Coursera](https://img.shields.io/badge/Coursera-Profile-brightgreen?style=flat&logo=coursera)](https://www.coursera.org/user/your-profile/)
+[![Tableau](https://img.shields.io/badge/Tableau-Profile-orange?style=flat&logo=tableau)](https://public.tableau.com/profile/your-profile)-->
 
 <!--
 **angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
