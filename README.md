@@ -1,5 +1,7 @@
 # Hello World! I'm Angelo 🌴
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/) [![Notion](https://img.shields.io/badge/Notion-My%20Notion%20Page-blue?style=flat&logo=notion)](https://www.notion.so)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/) [![Instagram Icon](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png)](https://www.instagram.com/angeloparayno/)
+
+![Instagram Icon](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png)
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
