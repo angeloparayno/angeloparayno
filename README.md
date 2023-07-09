@@ -1,7 +1,7 @@
 # Hello World! I'm Angelo 🌴
-[![linkedqewin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeloparayno/)
 
-
+[![Notion](https://img.shields.io/badge/Notion-My%20Notion%20Page-blue?style=flat&logo=notion)](https://www.notion.so)
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
