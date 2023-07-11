@@ -21,7 +21,7 @@ Note: <i> (click to see detailed list of projects)</i>
     * <b>Assignment:</b> Main Developer | Team Leader
     * <b>Classification:</b> Thesis | Capstone (Group of 4)
   * [Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS) (2014)
-    * <b>Assignment:</b> Project Management
+    * <b>Assignment:</b> Project Manager
     * <b>Classification:</b> Client Facing (Group of 4)
 </details>
 
@@ -31,6 +31,7 @@ Note: <i> (click to see detailed list of projects)</i>
   * [Meta-Coursera-HTML-CSS-Portfolio-Project](https://github.com/angeloparayno/meta-coursera-portfolio-project) (2023)
     * <b>Assignment:</b> Developer
     * <b>Classification:</b> Module Assignment
+    * <b>Description:</b> Desining a responsive one page site using vanilla HTML/CSS and Flexbox
       
 </details>
   
@@ -38,10 +39,10 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Data Analytics 📊</b></summary> 
  
   * [Bisa-Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
-    * <b>Assignment:</b> Project Management | Social Media Analytics
+    * <b>Assignment:</b> Project Manager | Social Media Analyst
     * <b>Classification</b> Client Facing (Group of 17)
   * [2021-NYC-Youth-Crime-Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate) (2022)
-    * <b>Assignment:</b> Gender Demographics Analytics
+    * <b>Assignment:</b> Gender Demographics Analyst
     * <b>Classification:</b> Case Study (Group of 5)
  
 </details>
@@ -50,7 +51,8 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Digital Marketing 📈</b></summary> 
  
   * [Lego-Media-Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
-    *  <b>Classification:</b> Case Study
+    * <b>Assignment:</b> Media Planner
+    * <b>Classification:</b> Case Study
  
 </details>
   
