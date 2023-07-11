@@ -22,7 +22,7 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Software Engineering 💻</b></summary> 
  
   * [FPS Interactive Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
-    * <b>Sub Project:</b> [RGB-Led-Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
+    * <b>Sub Project:</b> [RGB Led Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
     * <b>Assignment:</b> Main Developer | Team Leader
     * <b>Classification:</b> Thesis | Capstone (Group of 4)
   * [Attendance Monitoring System for the Faculty of UST IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS) (2014)
