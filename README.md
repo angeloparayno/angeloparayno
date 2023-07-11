@@ -21,11 +21,11 @@ Note: <i> (click to see detailed list of projects)</i>
 <details> 
  <summary><b>Software Engineering 💻</b></summary> 
  
-  * [FPS Interactive Whiteboard](https://github.com/angeloparayno/FPS-Interactive-Whiteboard) (2016)
-    * <b>Sub Project:</b> [RGB Led Flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
+  * [fps-interactive-whiteboard](https://github.com/angeloparayno/fps-interactive-whiteboard) (2016)
+    * <b>Sub Project:</b> [rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights) (2015)
     * <b>Assignment:</b> Main Developer | Team Leader
     * <b>Classification:</b> Thesis | Capstone (Group of 4)
-  * [Attendance Monitoring System for the Faculty of UST IICS](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS) (2014)
+  * [attendance-monitoring-system-for-the-faculty-of-ust-iics](https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics) (2014)
     * <b>Assignment:</b> Project Manager
     * <b>Classification:</b> Client Facing (Group of 4)
 </details>
@@ -33,7 +33,7 @@ Note: <i> (click to see detailed list of projects)</i>
 <details> 
  <summary><b>Web Development 🖥️</b></summary> 
  
-  * [Meta Coursera HTML CSS Portfolio Project](https://github.com/angeloparayno/meta-coursera-portfolio-project) (2023)
+  * [meta-coursera-html-css-portfolio-project](https://github.com/angeloparayno/meta-coursera-portfolio-project) (2023)
     * <b>Assignment:</b> Developer
     * <b>Classification:</b> Module Assignment
     * <b>Description:</b> Desining a responsive one page site using vanilla HTML/CSS and Flexbox
@@ -43,10 +43,10 @@ Note: <i> (click to see detailed list of projects)</i>
 <details>
  <summary><b>Data Analytics 📊</b></summary> 
  
-  * [Bisa Wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
+  * [bisa-wellness](https://github.com/angeloparayno/Bisa-Wellness) (2022)
     * <b>Assignment:</b> Project Manager | Social Media Analyst
     * <b>Classification</b> Client Facing (Group of 17)
-  * [2021 NYC Youth Crime Rate](https://github.com/angeloparayno/2021-NYC-Youth-Crime-Rate) (2022)
+  * [2021-nyc-youth-crime-rate](https://github.com/angeloparayno/2021-nyc-youth-crime-rate) (2022)
     * <b>Assignment:</b> Gender Demographics Analyst
     * <b>Classification:</b> Case Study (Group of 5)
  
@@ -55,7 +55,7 @@ Note: <i> (click to see detailed list of projects)</i>
 <details>
  <summary><b>Digital Marketing 📈</b></summary> 
  
-  * [Lego Media Plan](https://github.com/angeloparayno/Lego-Media-Plan) (2023)
+  * [lego-media-plan](https://github.com/angeloparayno/lego-media-plan) (2023)
     * <b>Assignment:</b> Media Planner
     * <b>Classification:</b> Case Study
  
@@ -64,9 +64,9 @@ Note: <i> (click to see detailed list of projects)</i>
 <details>
  <summary><b>Simple Coding 👨🏻‍💻</b></summary> 
  
- * [Simple Animations Using Java](https://github.com/angeloparayno/simple-animation-using-Java) (2015) 
+ * [simple-animations-using-java](https://github.com/angeloparayno/simple-animation-using-java) (2015) 
    * <b>Description:</b> A simple animation of an Anime character using pure Java with JFrame
- * [ASM Codes](https://github.com/angeloparayno/asm-codes) (2012)
+ * [asm-codes](https://github.com/angeloparayno/asm-codes) (2012)
    * <b>Description:</b> A list of simple Assembly programs
  
 </details>
