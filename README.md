@@ -2,7 +2,7 @@
 <details> 
  <summary><b>Bachelor of Science in Information Technology 🎓</b></summary>
  
-  * Graduated in the University of Santo Tomas, Manila Philippines
+  * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
   * Main Coursework: 
     * Software Engineering
     * Database Managment
