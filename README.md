@@ -29,8 +29,8 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>Web Development 🖥️</b></summary> 
  
   * [Meta-Coursera-HTML-CSS-Portfolio-Project](https://github.com/angeloparayno/meta-coursera-portfolio-project) (2023)
-    * <b>Assignment: Developer
-    * <b>Classification: Module Assignment
+    * <b>Assignment:</b> Developer
+    * <b>Classification:</b> Module Assignment
       
 </details>
   
