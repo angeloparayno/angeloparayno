@@ -2,8 +2,13 @@
 <details> 
  <summary><b>Bachelor of Science in Information Technology 🎓</b></summary>
  
-  * University of Santo Tomas, Manila Philippines
-  
+  * Graduated in the University of Santo Tomas, Manila Philippines
+  * Main Coursework: 
+    * Software Engineering
+    * Database Managment
+    * Computer Networks
+    * Embedded Systems
+    * Management of Information Systems  
 </details>
 
 ---
