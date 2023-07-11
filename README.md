@@ -1,6 +1,6 @@
 # Hello World! I'm Angelo 🌴
 <details> 
- <summary><b>Bachelor of Science in Information Technology 🎓</b></summary>
+ <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
   * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
   * Main Coursework: 
