@@ -24,6 +24,15 @@ Note: <i> (click to see detailed list of projects)</i>
     * <b>Assignment:</b> Project Management
     * <b>Classification:</b> Client Facing (Group of 4)
 </details>
+
+<details> 
+ <summary><b>Web Development 🖥️</b></summary> 
+ 
+  * [Meta-Coursera-HTML-CSS-Portfolio-Project](https://github.com/angeloparayno/meta-coursera-portfolio-project) (2023)
+    * <b>Assignment: Developer
+    * <b>Classification: Module Assignment
+      
+</details>
   
 <details>
  <summary><b>Data Analytics 📊</b></summary> 
