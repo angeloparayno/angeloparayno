@@ -57,7 +57,6 @@ Note: <i> (click to see detailed list of projects)</i>
     * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
     * <b>Classification</b> Client Facing (Group of 17)
     * <b>Assignment:</b> Project Manager | Social Media Analyst
-
   * <b>[2021-nyc-youth-crime-rate](https://github.com/angeloparayno/2021-nyc-youth-crime-rate)</b> (2022)
     * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
     * <b>Classification:</b> Case Study (Group of 5)
