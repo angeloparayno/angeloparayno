@@ -23,7 +23,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>(2) Web Development 🖥️</b><b>(RECENT‼️)</b></summary>
+ <summary><b>(2) Web Development 🖥️</b> <b>(RECENT‼️)</b></summary>
  
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
