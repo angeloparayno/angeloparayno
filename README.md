@@ -88,15 +88,15 @@ Note: <i> (click to see detailed list of projects)</i>
 <details> 
  <summary><b>Meta Front-End Development</b> - [ON PROCESS]</summary>
  
-#### [Full Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
-1. ✅ [Foundations Data, Data, Everywhere]()
-2. ✅ [Ask Questions to Make Data-Driven Decisions]()
-3. ✅ [Prepare Data for Exploration]()
-4. ✅ [Version Control](https://www.coursera.org/account/accomplishments/certificate/WNU4JFBKA5YB)
-5. ❌ [Analyze Data to Answer Questions]()
-6. ❌ [Share Data Through the Art of Visualization]()
-7. ❌ [Data Analysis with R Programming]()
-8. ❌ [Google Data Analytics Capstone: Complete a Case Study]()
+#### [Completed Professional Certificate]()
+1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
+2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
+3. ✅ [Version Control](https://coursera.org/share/10e72b154fb0279e9958878bc1bddab1)
+4. ✅ [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
+4. ❌ [Analyze Data to Answer Questions]()
+5. ❌ [Share Data Through the Art of Visualization]()
+6. ❌ [Data Analysis with R Programming]()
+7. ❌ [Google Data Analytics Capstone: Complete a Case Study]()
 
 </details>
 <details> 
@@ -105,14 +105,23 @@ Note: <i> (click to see detailed list of projects)</i>
 #### [Completed Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
-3. ✅ [Prepare Data for Exploration]()
-4. ✅ [Process Data from Dirty to Clean]()
-5. ✅ [Analyze Data to Answer Questions]()
-6. ✅ [Share Data Through the Art of Visualization]()
-7. ✅ [Data Analysis with R Programming]()
-8. ✅ [Google Data Analytics Capstone: Complete a Case Study]()
+3. ✅ [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/V4FSJARED6PH)
+4. ✅ [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/6QS6QCTVWSXY)
+5. ✅ [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/AUEDTK7TDGR2)
+6. ✅ [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/2J62G44XE428)
+7. ✅ [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/DM4SN8DP3AMF)
+8. ✅ [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/RJPF5A56X3Z4)
 
 </details>
+<details> 
+ <summary><b>Others</b></summary>
+ 
+ - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
+ - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
+ - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/7RLQZLNFG467)
+
+</details>
+
 
 
 <!--
