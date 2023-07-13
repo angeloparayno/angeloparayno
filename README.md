@@ -94,6 +94,40 @@ Note: <i> (click to see detailed list of projects)</i>
     * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 </details>
 
+<!--
+---
+## 🛠️ Tools & Skills
+<details> 
+ <summary><b>Programming Languages</b></summary>
+
+ * Python
+ * C++
+ * Java
+ * Bash
+ * Assembly
+ * R
+
+</details>
+<details> 
+ <summary><b>Web Development</b></summary>
+
+ * HTML / HTML5
+ * CSS / CSS3
+ * Javascript
+ * Node.JS
+ * Bootstrap
+ * J2EE
+
+</details>
+<details> 
+ <summary><b>Databases</b></summary>
+
+ * MySQL
+ * DB2
+
+</details>
+-->
+
 ---
 ## 📚 Coursera
 <details> 
