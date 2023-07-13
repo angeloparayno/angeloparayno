@@ -77,8 +77,9 @@ Note: <i> (click to see detailed list of projects)</i>
   * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
   * Main Coursework: 
     * Software Engineering
-    * Database Managment
+    * Database Management
     * Computer Networks
+  * Additional Coursework:
     * Embedded Systems
     * Management of Information Systems  
 </details>
@@ -86,17 +87,18 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 📚 Coursera
 <details> 
- <summary><b>Meta Front-End Development</b> - [ON PROCESS]</summary>
+ <summary><b>Meta Front-End Development Professional Certificate</b> - [ON PROCESS]</summary>
  
-#### [Completed Professional Certificate]()
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
 3. ✅ [Version Control](https://coursera.org/share/10e72b154fb0279e9958878bc1bddab1)
 4. ✅ [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
-4. ❌ [Analyze Data to Answer Questions]()
-5. ❌ [Share Data Through the Art of Visualization]()
-6. ❌ [Data Analysis with R Programming]()
-7. ❌ [Google Data Analytics Capstone: Complete a Case Study]()
+5. ❌ [React Basics]()
+6. ❌ [Advanced React]()
+7. ❌ [Principles of UX/UI Design]()
+8. ❌ [Front-End Developer Capstone]()
+9. ❌ [Coding Interview Preperation]()
+
 
 </details>
 <details> 
@@ -115,10 +117,11 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 <details> 
  <summary><b>Others</b></summary>
- 
- - [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
- - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
- - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/7RLQZLNFG467)
+
+ - ✅ [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZY4RQ29J2XDY)
+ - ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
+ - ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
+ - ✅ [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/7RLQZLNFG467)
 
 </details>
 
