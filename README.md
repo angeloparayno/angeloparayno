@@ -69,8 +69,7 @@ Note: <i> (click to see detailed list of projects)</i>
  * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
-<h2 align="center">🙋🏻‍♂️ About Me</h2>
-
+## 🙋🏻‍♂️ About Me
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
