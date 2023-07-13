@@ -1,10 +1,10 @@
 # Hello World, I'm Angelo🌴
 
 ---
-<h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
+<h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 
 ---
-## ⚙️ List of Projects
+### ⚙️ List of Projects
 Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
@@ -69,7 +69,7 @@ Note: <i> (click to see detailed list of projects)</i>
  * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
-## 🙋🏻‍♂️ About Me
+<h2 align="center">🙋🏻‍♂️ About Me</h2>
 
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
