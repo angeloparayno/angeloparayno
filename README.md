@@ -83,6 +83,16 @@ Note: <i> (click to see detailed list of projects)</i>
     * Embedded Systems
     * Management of Information Systems  
 </details>
+<details> 
+ <summary>I edit <b>Instagram Reels</b> for fun 📱</summary>
+
+  * <b>Top Reels I've created</b>
+    * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+    * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+    * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+    * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+    * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+</details>
 
 ---
 ## 📚 Coursera
