@@ -1,4 +1,4 @@
-# Hello World, I'm Angelo!
+# Hello World, I'm Angelo🌴
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
@@ -82,6 +82,38 @@ Note: <i> (click to see detailed list of projects)</i>
     * Embedded Systems
     * Management of Information Systems  
 </details>
+
+---
+## 📚 Coursera
+<details> 
+ <summary><b>Meta Front-End Development</b> - [ON PROCESS]</summary>
+ 
+#### [Full Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
+1. ✅ [Foundations Data, Data, Everywhere]()
+2. ✅ [Ask Questions to Make Data-Driven Decisions]()
+3. ✅ [Prepare Data for Exploration]()
+4. ✅ [Version Control](https://www.coursera.org/account/accomplishments/certificate/WNU4JFBKA5YB)
+5. ❌ [Analyze Data to Answer Questions]()
+6. ❌ [Share Data Through the Art of Visualization]()
+7. ❌ [Data Analysis with R Programming]()
+8. ❌ [Google Data Analytics Capstone: Complete a Case Study]()
+
+</details>
+<details> 
+ <summary><b>Google Data Analytics Professional Certificate</b> - [COMPLETED]</summary>
+ 
+#### [Completed Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
+1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
+2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
+3. ✅ [Prepare Data for Exploration]()
+4. ✅ [Process Data from Dirty to Clean]()
+5. ✅ [Analyze Data to Answer Questions]()
+6. ✅ [Share Data Through the Art of Visualization]()
+7. ✅ [Data Analysis with R Programming]()
+8. ✅ [Google Data Analytics Capstone: Complete a Case Study]()
+
+</details>
+
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/) 
