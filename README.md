@@ -1,15 +1,4 @@
 # Hello World! I'm Angelo 🌴
-<details> 
- <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
- 
-  * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
-  * Main Coursework: 
-    * Software Engineering
-    * Database Managment
-    * Computer Networks
-    * Embedded Systems
-    * Management of Information Systems  
-</details>
 
 ---
 <h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
@@ -19,7 +8,7 @@
 Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
- <summary><b>Software Engineering 💻</b></summary> 
+ <summary><b>(2) Software Engineering 💻</b></summary> 
  
   * <b>[fps-interactive-whiteboard](https://github.com/angeloparayno/fps-interactive-whiteboard)</b> (2016)
     * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
@@ -34,7 +23,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>Web Development 🖥️</b> <b>(RECENT‼️)</b></summary>
+ <summary><b>(2) Web Development 🖥️</b><b>(RECENT‼️)</b></summary>
  
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
@@ -45,7 +34,7 @@ Note: <i> (click to see detailed list of projects)</i>
     
 </details>
 <details>
- <summary><b>Simple Coding 👨🏻‍💻</b></summary> 
+ <summary><b>(2) Simple Coding 👨🏻‍💻</b></summary> 
  
  * <b>[simple-animations-using-java](https://github.com/angeloparayno/simple-animation-using-java)</b> (2015) 
    * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
@@ -54,7 +43,7 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>  
 <details>
- <summary><b>Data Analytics 📊</b></summary> 
+ <summary><b>(2) Data Analytics 📊</b></summary> 
  
   * <b>[bisa-wellness](https://github.com/angeloparayno/Bisa-Wellness)</b> (2022)
     * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
@@ -67,7 +56,7 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>
 <details>
- <summary><b>Digital Marketing 📈</b></summary> 
+ <summary><b>(1) Digital Marketing 📈</b></summary> 
  
   * <b>[lego-media-plan](https://github.com/angeloparayno/lego-media-plan)</b> (2023)
     * <b>Classification:</b> Case Study
@@ -80,6 +69,20 @@ Note: <i> (click to see detailed list of projects)</i>
  * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
 ---
+## 🙋🏻‍♂️ About Me
+
+<details> 
+ <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
+ 
+  * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
+  * Main Coursework: 
+    * Software Engineering
+    * Database Managment
+    * Computer Networks
+    * Embedded Systems
+    * Management of Information Systems  
+</details>
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/your-profile/)
