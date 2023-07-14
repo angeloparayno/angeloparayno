@@ -2,7 +2,7 @@
 
 ---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
-<h3 align ="center"><i>"Do it messy, than do nothing at all"</i></h3>
+<p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
 ### ⚙️ List of Projects
@@ -84,14 +84,15 @@ Note: <i> (click to see detailed list of projects)</i>
     * Management of Information Systems  
 </details>
 <details> 
- <summary>I edit <b>Instagram Reels</b> for fun 📱</summary>
+ <summary>I post and edit <b>Instagram Reels</b> for fun 📱</summary>
 
-  * <b>Top Reels I've created</b>
-    * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-    * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-    * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-    * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-    * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+#### Top Reels I've created:
+ * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+  
 </details>
 
 <!--
