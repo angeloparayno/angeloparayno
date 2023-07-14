@@ -155,13 +155,10 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 <h2 align="center">Extras</h2>
 
----
-
 ## 📊 Stats
-
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact">
 </div>
 
