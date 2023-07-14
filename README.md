@@ -141,8 +141,8 @@ Note: <i> (click to see more details)</i>
 ---
 ## 🪪 Badges 
 <div align ="center">
-    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
-    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
+    <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c/public_url" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
+    <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
 </div>
 
 ---
