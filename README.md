@@ -67,7 +67,11 @@ Note: <i> (click to see detailed list of projects)</i>
 
 ---
 ## 🔗 Additional Project Links
-  * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
+<details> 
+ <summary><b>Tableau Profile</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno)">Link</a></b></summary>
+ 
+</details>
+
 
 ---
 ## 🙋🏻‍♂️ About Me
@@ -165,13 +169,6 @@ Note: <i> (click to see more details)</i>
     <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
     <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
-    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
-    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
-    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
-    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
-    <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" alt="go" width="40" height="40"/></a></code>
-    <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 </div>
 
 ---
