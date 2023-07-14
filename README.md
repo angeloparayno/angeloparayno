@@ -3,10 +3,6 @@
 ---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
-<div align="center"> 
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-</div>
-
 
 ---
 ### ⚙️ List of Projects
@@ -28,7 +24,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>(2) Web Development 🖥️</b> <b>- RECENT‼️</b></summary>
+ <summary><b>(2) Web Development 🖥️</b> - <b><i>RECENT‼️</i></b></summary>
  
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
@@ -61,7 +57,7 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>
 <details>
- <summary><b>(1) Digital Marketing </b></summary> 
+ <summary><b>(1) Digital Marketing 📺</b></summary> 
  
   * <b>[lego-media-plan](https://github.com/angeloparayno/lego-media-plan)</b> (2023)
     * <b>Classification:</b> Case Study
@@ -69,12 +65,10 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 
+### 🔗 Additional Project Links
+  * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 ---
-## 🔗 Other Project Links
- * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
-
----
-## 🙋🏻‍♂️ About Me
+### 🙋🏻‍♂️ About Me
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
@@ -99,42 +93,26 @@ Note: <i> (click to see detailed list of projects)</i>
   
 </details>
 
-<!--
 ---
 ## 🛠️ Tools & Skills
-<details> 
- <summary><b>Programming Languages</b></summary>
+<div align="center"> 
+    
+</div>
 
- * Python
- * C++
- * Java
- * Bash
- * Assembly
- * R
 
-</details>
-<details> 
- <summary><b>Web Development</b></summary>
-
- * HTML / HTML5
- * CSS / CSS3
- * Javascript
- * Node.JS
- * Bootstrap
- * J2EE
-
-</details>
-<details> 
- <summary><b>Databases</b></summary>
-
- * MySQL
- * DB2
-
-</details>
--->
+--- 
+<h2 align="center">Addtional Learnings</h2>
 
 ---
-## 📚 Coursera
+
+### 🪪 Badges 
+<div align ="center">
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="120" height="120"/></a></code>
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="120" height="120"/></a></code>
+</div>
+
+---
+### 📚 Coursera
 <details> 
  <summary><b>Meta Front-End Development Professional Certificate</b> - [ON PROCESS]</summary>
  
@@ -151,7 +129,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>Google Data Analytics Professional Certificate</b> - [COMPLETED]</summary>
+ <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV">[COMPLETED]</a></b></summary>
  
 #### [Completed Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
@@ -174,26 +152,16 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 
+---
+<h2 align="center">Extras</h2>
+
+---
+
+## 📊 Stats
 
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram)](https://www.instagram.com/your-profile/)
-[![Coursera](https://img.shields.io/badge/Coursera-Profile-brightgreen?style=flat&logo=coursera)](https://www.coursera.org/user/your-profile/)
-[![Tableau](https://img.shields.io/badge/Tableau-Profile-orange?style=flat&logo=tableau)](https://public.tableau.com/profile/your-profile)
--->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</div>
 
-<!--
-**angeloparayno/angeloparayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
