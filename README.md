@@ -1,6 +1,6 @@
 # Hello World, I'm Angelo🌴
 
----
+
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
@@ -94,7 +94,7 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 
 ---
-## 🛠️ Tools & Skills
+### 🛠️ Tools & Skills
 <div align="center"> 
     
 </div>
@@ -103,7 +103,6 @@ Note: <i> (click to see detailed list of projects)</i>
 --- 
 <h2 align="center">Addtional Learnings</h2>
 
----
 
 ### 🪪 Badges 
 <div align ="center">
