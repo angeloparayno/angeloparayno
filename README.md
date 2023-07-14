@@ -2,6 +2,7 @@
 
 ---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
+<h3 align ="center"><i>"Do it messy, than do nothing at all"</i></h3>
 
 ---
 ### ⚙️ List of Projects
@@ -15,7 +16,7 @@ Note: <i> (click to see detailed list of projects)</i>
     * <b>Classification:</b> Thesis | Capstone (Group of 4)
     * <b>Assignment:</b> Main Developer | Team Leader
     * <b>Sub Project:</b> <b>[rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)</b> (2015)
-      * <b>Description:</b> uilt two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
+      * <b>Description:</b> Built two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
   * <b>[attendance-monitoring-system-for-the-faculty-of-ust-iics](https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics)</b> (2014)
     * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
     * <b>Classification:</b> Client Facing (Group of 4)
