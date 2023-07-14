@@ -1,6 +1,6 @@
-# Hello World, I'm Angelo🌴
+## Hello World, I'm Angelo🌴
 
----
+
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
@@ -65,10 +65,12 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 
-### 🔗 Additional Project Links
+
+## 🔗 Additional Project Links
   * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
----
-### 🙋🏻‍♂️ About Me
+
+## 🙋🏻‍♂️ About Me
+Note: <i> (click to see more details)</i>
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
@@ -85,34 +87,19 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary>I post and edit <b>Instagram Reels</b> for fun 📱</summary>
 
 #### Top Reels I've created:
+---
  * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-  
+
 </details>
 
----
-### 🛠️ Tools & Skills
-<div align="center"> 
-    
-</div>
-
-
---- 
-
-
-### 🪪 Badges 
-<div align ="center">
-    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
-    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
-</div>
-
----
-### 📚 Coursera
+## 📚 Coursera
+Note: <i> (click to see more details)</i>
 <details> 
- <summary><b>Meta Front-End Development Professional Certificate</b> - [ON PROCESS]</summary>
+ <summary><b>Meta Front-End Development Professional Certificate</b> - [<i>ON PROCESS</i>]</summary>
  
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
@@ -127,9 +114,8 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV">[COMPLETED]</a></b></summary>
+ <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV">[<i>COMPLETED</i>]</a></b></summary>
  
-#### [Completed Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV)
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
 3. ✅ [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/V4FSJARED6PH)
@@ -142,9 +128,8 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 <details> 
  <summary><b>Individual Courses</b></summary>
-
-<p> Note: <i>(full professional certicate on-hold)</i></p>
-
+ <p> Note: <i>(full professional certicate on-hold)</i></p>
+ 
  - ✅ [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZY4RQ29J2XDY)
  - ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
  - ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
@@ -153,7 +138,43 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 
 ---
-### 📊 Stats
+
+### 🪪 Badges 
+<div align ="center">
+    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
+    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
+</div>
+
+## 🛠 Languages and Tools
+📖 I have been learning and exploring these following tools and languages
+
+<div align="center"> 
+    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
+    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
+    <code><a href="https://www.jenkins.io" title="Jenkins" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a></code>
+    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
+    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
+    <code><a href="https://developer.apple.com/swift/" title="Swift" target="_blank"><img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="40" height="40"/></a></code>
+    <code><a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/></a></code>
+    <code><a href="https://dart.dev/" title="Dart" target="_blank"><img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="dart" width="40" height="40"/></a></code>
+    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
+    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
+    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
+    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/" title="Spring" target="_blank"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="spring" width="40" height="40"/></a></code>
+    <code><a href="https://spring.io/projects/spring-boot" title="Spring Boot" target="_blank"><img src="https://www.adroitlogic.com/static/assets/images/icons/spring-boot.svg" alt="springboot" width="40" height="40"/></a></code>
+    <code><a href="https://kubernetes.io/" title="Kubernetes" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/></a></code>
+    <code><a href="https://www.scala-lang.org/" title="Scala" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40"/></a></code>
+    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
+    <code><a href="https://go.dev/" title="Go" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" alt="go" width="40" height="40"/></a></code>
+    <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
+</div>
+
+## 📊 Stats
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact">
