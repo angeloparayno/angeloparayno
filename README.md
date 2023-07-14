@@ -117,7 +117,7 @@ Note: <i> (click to see detailed list of projects)</i>
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
 3. ✅ [Version Control](https://coursera.org/share/10e72b154fb0279e9958878bc1bddab1)
-4. ✅ [HTML and CSS in depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
+4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
 5. ❌ [React Basics]()
 6. ❌ [Advanced React]()
 7. ❌ [Principles of UX/UI Design]()
@@ -141,7 +141,9 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>Others</b></summary>
+ <summary><b>Individual Courses</b></summary>
+
+<p> Note: <i>(full professional certicate on-hold)</i></p>
 
  - ✅ [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZY4RQ29J2XDY)
  - ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
@@ -154,7 +156,7 @@ Note: <i> (click to see detailed list of projects)</i>
 ### 📊 Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact">
 </div>
 
