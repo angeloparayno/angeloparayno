@@ -156,6 +156,8 @@ Note: <i> (click to see more details)</i>
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
+    <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/assembly.svg" alt="Assembly" width="40" height="40"/></a></code>
+    <code><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/></a></code>
     <h3>Web Development</h3>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
@@ -167,10 +169,17 @@ Note: <i> (click to see more details)</i>
     -->
     <h3>Databases</h3>
     <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
+    <a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer">
+    <img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/>
+    </a>
     <h3>Others</h3>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"></a></code>
+    <code><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a></code>
+    <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
 </div>
+
 
 ---
 ## 📊 Stats
