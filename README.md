@@ -65,10 +65,11 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 
-
+---
 ## 🔗 Additional Project Links
   * <b>[Tableau Profile](https://public.tableau.com/app/profile/angeloparayno)</b>
 
+---
 ## 🙋🏻‍♂️ About Me
 Note: <i> (click to see more details)</i>
 <details> 
@@ -95,6 +96,7 @@ Note: <i> (click to see more details)</i>
 
 </details>
 
+---
 ## 📚 Coursera
 Note: <i> (click to see more details)</i>
 <details> 
@@ -135,12 +137,14 @@ Note: <i> (click to see more details)</i>
 
 </details>
 
+---
 ## 🪪 Badges 
 <div align ="center">
     <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
 </div>
 
+---
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
 
@@ -170,6 +174,7 @@ Note: <i> (click to see more details)</i>
     <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
 </div>
 
+---
 ## 📊 Stats
 
 <div align="center">
