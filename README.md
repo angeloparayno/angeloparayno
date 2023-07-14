@@ -1,11 +1,11 @@
 ## Hello World, I'm Angelo🌴
 
 ---
-<h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
+<h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
-### ⚙️ List of Projects
+## ⚙️ List of Projects
 Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
