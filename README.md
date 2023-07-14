@@ -1,6 +1,6 @@
 # Hello World, I'm Angelo🌴
 
-
+---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
@@ -44,7 +44,7 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>  
 <details>
- <summary><b>(2) Data Analytics 📊</b></summary> 
+ <summary><b>(2) Data Analytics 📈</b></summary> 
  
   * <b>[bisa-wellness](https://github.com/angeloparayno/Bisa-Wellness)</b> (2022)
     * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
@@ -101,13 +101,12 @@ Note: <i> (click to see detailed list of projects)</i>
 
 
 --- 
-<h2 align="center">Addtional Learnings</h2>
 
 
 ### 🪪 Badges 
 <div align ="center">
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="120" height="120"/></a></code>
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="120" height="120"/></a></code>
+    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
+    <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
 </div>
 
 ---
@@ -152,9 +151,7 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 
 ---
-<h2 align="center">Extras</h2>
-
-## 📊 Stats
+### 📊 Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
