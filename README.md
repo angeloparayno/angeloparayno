@@ -1,6 +1,6 @@
 ## Hello World, I'm Angelo🌴
 
-
+---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
@@ -87,7 +87,6 @@ Note: <i> (click to see more details)</i>
  <summary>I post and edit <b>Instagram Reels</b> for fun 📱</summary>
 
 #### Top Reels I've created:
----
  * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
@@ -128,8 +127,7 @@ Note: <i> (click to see more details)</i>
 </details>
 <details> 
  <summary><b>Individual Courses</b></summary>
- <p> Note: <i>(full professional certicate on-hold)</i></p>
- 
+
  - ✅ [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZY4RQ29J2XDY)
  - ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
  - ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
@@ -137,9 +135,7 @@ Note: <i> (click to see more details)</i>
 
 </details>
 
----
-
-### 🪪 Badges 
+## 🪪 Badges 
 <div align ="center">
     <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data analytics professional certificate" width="80" height="80"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="" target=""><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="80" height="80"/></a></code>
