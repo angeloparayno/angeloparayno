@@ -57,7 +57,7 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>
 <details>
- <summary><b>(1) Digital Marketing 📈</b></summary> 
+ <summary><b>(1) Digital Marketing </b></summary> 
  
   * <b>[lego-media-plan](https://github.com/angeloparayno/lego-media-plan)</b> (2023)
     * <b>Classification:</b> Case Study
