@@ -148,7 +148,7 @@ Note: <i> (click to see more details)</i>
 ---
 ## 🛠 Languages and Tools
 
-<div align="center"> 
+<div align="left"> 
     <code>Programming Language</code>
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
