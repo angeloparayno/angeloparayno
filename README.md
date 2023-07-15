@@ -1,4 +1,4 @@
-## Hello World, I'm Angelo🌴
+# Hello World, I'm Angelo🌴
 
 ---
 <h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
