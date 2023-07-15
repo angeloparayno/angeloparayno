@@ -1,7 +1,7 @@
-# Hello World, I'm Angelo🌴
+## Hello World, I'm Angelo🌴
 
 ---
-<h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
+<h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
