@@ -46,7 +46,8 @@
  
 </details>
 
-#### Simple Coding 👨🏻‍💻
+---
+### Simple Coding 👨🏻‍💻
 <details> 
  <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[REPO LINK]</a></b></summary>
 
