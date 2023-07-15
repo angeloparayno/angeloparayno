@@ -60,6 +60,7 @@
  
 </details>
 
+---
 #### Data Analytics 📈
 <details> 
  <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[REPO LINK]</a></b></summary>
