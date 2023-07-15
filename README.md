@@ -80,6 +80,7 @@
 
 </details>
 
+---
 #### Digital Marketing 📺
 <details> 
  <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[REPO LINK]</a></b></summary>
