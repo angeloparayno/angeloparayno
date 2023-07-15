@@ -8,7 +8,7 @@
 <h1 align="center">⚙️ List of Projects</h1>
 <p><b>Note:</b> <i>(click to see details of each project)</i>
 
-<h3 align="center"> Software Engineering 💻</h3>
+### Software Engineering 💻
 <details> 
  <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[REPO LINK]</a></b></summary>
 
@@ -30,7 +30,7 @@
 
 ---
 
-#### Web Development 🖥️
+### Web Development 🖥️
 <details> 
  <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[REPO LINK]</a></b></summary>
 
