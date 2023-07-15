@@ -1,7 +1,7 @@
 ## Hello World, I'm Angelo🌴
 
 ---
-<h3 align ="center"> 🗣️: Welcome to my GitHub profile! </h3>
+<h2 align ="center"> 🗣️: Welcome to my GitHub profile! </h2>
 <p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
@@ -24,7 +24,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>(2) Web Development 🖥️</b> - <b><i>RECENT⚠️</i></b></summary>
+ <summary><b>(2) Web Development 🖥️</b> - <b><i>⚠️RECENT⚠️</i></b></summary>
  
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
@@ -148,12 +148,21 @@ Note: <i> (click to see more details)</i>
 ## 🛠 Languages and Tools
 
 <div align="center"> 
-    <h4>Programming Languages</h4>
+    <h4>Programming</h4>
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
+    <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://www.techbaz.org/Course/img/c-logo.png" alt="C" width="40" height="40"/></a></code>
+    <code><a href="https://www.cplusplus.com" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
     <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Assembly" width="40" height="40"/></a></code>
     <code><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/></a></code>
+    <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
+    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://github.com" title="Git" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a></code>
+    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
+    <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
+    <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></code>
     <h4>Web Development</h4>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
@@ -164,23 +173,18 @@ Note: <i> (click to see more details)</i>
     -->
     <h4>Databases</h4>
     <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-    <a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer">
-    <img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/>
-    </a>
+    <code><a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer"><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/></a></code>
     <h4>Analytics<h4>
+    <code><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2PRmJ?ver=cf0f" alt="Tableau" width="40" height="40"/></a></code>
     <code><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a></code>
+    <code><a href="https://cloud.google.com/looker-studio" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYyo97CnJmL82j7uw02EA8oPGd6-rF5W_2TCUQYRO&s" alt="Tableau" width="40" height="40"/></a></code>
     <code><a href="https://analytics.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" alt="Google Analytics" width="40" height="40"/></a></code>
     <code><a href="https://ads.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_171064.png" width="40" height="40"/></a></code>
     <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
     <h4>Others</h4>
-    <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
-    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
-    <code><a href="https://github.com" title="Git" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></code>
-    <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/></a></code>
-    <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
-    <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <code><a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789710&utm_medium=80211061601&utm_content=500427479647&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIkIWt9riPgAMVvzrUAR0jSAzuEAAYASAAEgKB9_D_BwE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <code><a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1920px-ChatGPT_logo.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <code><a href="https://calendly.com" target="_blank" rel="noreferrer"><img src="https://logosandtypes.com/wp-content/uploads/2022/09/calendly.svg" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
     <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a></code>
