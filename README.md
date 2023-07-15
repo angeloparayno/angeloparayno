@@ -6,11 +6,93 @@
 
 ---
 ## ⚙️ List of Projects
+Note: <i> (click to see details of each project)</i>
+
+### Software Engineering
+<details> 
+ <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://public.tableau.com/app/profile/angeloparayno">[<i>LINK</i>]</a></b></summary>
+
+* <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
+* <b>Classification:</b> Thesis | Capstone (Group of 4)
+* <b>Assignment:</b> Main Developer | Team Leader
+* <b>Sub Project:</b> <b>[rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)</b> (2015)
+  * <b>Description:</b> Built two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
+
+</details>
+<details> 
+ <summary><b>attendance-monitoring-system..</b> (2014) - <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[<i>LINK</i>]</a></b></summary>
+
+* <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
+* <b>Classification:</b> Client Facing (Group of 4)
+* <b>Assignment:</b> Project Manager
+ 
+</details>
+
+### Web Development
+<details> 
+ <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[<i>LINK</i>]</a></b></summary>
+
+* <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
+* <b>Classification:</b> Personal Project
+ 
+</details>
+<details> 
+ <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/eta-coursera-html-css-portfolio-project">[<i>LINK</i>]</a></b></summary>
+
+* <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
+* <b>Classification:</b> Module Assignment
+ 
+</details>
+
+### Simple Coding
+<details> 
+ <summary><b>simple-animations-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animations-using-java">[<i>LINK</i>]</a></b></summary>
+
+ * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
+ 
+</details>
+<details> 
+ <summary><b>asm-codes</b> (2012) - <b><a href="https://github.com/angeloparayno/asm-codes">[<i>LINK</i>]</a></b></summary>
+ 
+* <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
+ 
+</details>
+
+### Data Analytics
+<details> 
+ <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[<i>LINK</i>]</a></b></summary>t
+ 
+ * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
+  * <b>Classification</b> Client Facing (Group of 17)
+  * <b>Assignment:</b> Project Manager | Social Media Analyst
+
+</details>
+<details> 
+ <summary><b>2021-nyc-youth-crime-rate</b> (2022) - <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[<i>LINK</i>]</a></b></summary>
+ 
+ * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
+ * <b>Classification:</b> Case Study (Group of 5)
+ * <b>Assignment:</b> Gender Demographics Analyst
+
+</details>
+
+### Digital Marketing
+<details> 
+ <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[<i>LINK</i>]</a></b></summary>
+
+* <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
+* <b>Classification:</b> Case Study
+* <b>Assignment:</b> Media Planner
+ 
+</details>
+
+<!--
+## ⚙️ List of Projects
 Note: <i> (click to see detailed list of projects)</i>
 
 <details> 
- <summary><b>(2) Software Engineering 💻</b></summary> 
- 
+ <summary><b>(2) Software Engineering</b></summary> 
+
   * <b>[fps-interactive-whiteboard](https://github.com/angeloparayno/fps-interactive-whiteboard)</b> (2016)
     * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
     * <b>Classification:</b> Thesis | Capstone (Group of 4)
@@ -25,7 +107,7 @@ Note: <i> (click to see detailed list of projects)</i>
 </details>
 <details> 
  <summary><b>(2) Web Development 🖥️</b> - <b><i>RECENT‼️</i></b></summary>
- 
+
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
     * <b>Classification:</b> Personal Project
@@ -60,7 +142,7 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>(1) Digital Marketing 📺</b></summary> 
  
   * <b>[lego-media-plan](https://github.com/angeloparayno/lego-media-plan)</b> (2023)
-    * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends
+    * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
     * <b>Classification:</b> Case Study
     * <b>Assignment:</b> Media Planner
 
@@ -96,6 +178,7 @@ Note: <i> (click to see more details)</i>
  * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 💡
 
 </details>
+-->
 
 ---
 ## 📚 Coursera
