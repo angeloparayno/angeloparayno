@@ -8,7 +8,7 @@
 <h1 align="center">⚙️ List of Projects</h1>
 <p><b>Note:</b> <i>(click to see details of each project)</i>
 
-<h4 align="center"> Software Engineering 💻</h4>
+<h3 align="center"> Software Engineering 💻</h3>
 <details> 
  <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[REPO LINK]</a></b></summary>
 
