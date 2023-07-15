@@ -60,7 +60,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Data Analytics
 <details> 
- <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[<i>LINK</i>]</a></b></summary>t
+ <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[<i>LINK</i>]</a></b></summary>
  
  * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
   * <b>Classification</b> Client Facing (Group of 17)
