@@ -152,7 +152,7 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 🔗 Additional Project Links
 <details> 
- <summary><b>Tableau</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[<i>LINK</i>]</a></b></summary>
+ <summary><b>Tableau</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b></summary>
  
 </details>
 
