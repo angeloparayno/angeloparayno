@@ -6,7 +6,7 @@
 
 ---
 ## ⚙️ List of Projects
-<p><b>Note</b> <i> (click to see details of each project)</i>
+<p><b>Note:</b> <i> (click to see details of each project)</i>
 
 #### Software Engineering 💻
 <details> 
@@ -159,7 +159,7 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 <h1 align="center">🙋🏻‍♂️ About Me</h1>
 
-<p><b>Note</b>: <i> (click to see more details)</i></p>
+<p><b>Note:</b> <i> (click to see more details)</i></p>
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
@@ -186,7 +186,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 <p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations pretty well </i><p>
 
-<p>b>Note</b>: <i> (click to see more details)</i>
+<b>Note:</b> <i> (click to see more details)</i>
 <details> 
  <summary><b>Meta Front-End Development Professional Certificate</b> - [<i>ON PROCESS</i>]</summary>
  
