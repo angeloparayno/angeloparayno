@@ -5,7 +5,7 @@
 <p align="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
-<h2 align="center">⚙️ List of Projects</h2>
+<h1 align="center">⚙️ List of Projects</h1>
 <p><b>Note:</b> <i>(click to see details of each project)</i>
 
 #### Software Engineering 💻
