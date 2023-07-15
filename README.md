@@ -72,7 +72,6 @@ Note: <i> (click to see detailed list of projects)</i>
  
 </details>
 
-
 ---
 ## 🙋🏻‍♂️ About Me
 Note: <i> (click to see more details)</i>
@@ -149,7 +148,7 @@ Note: <i> (click to see more details)</i>
 ## 🛠 Languages and Tools
 
 <div align="center"> 
-    <h4>Programming Language</h4>
+    <h4>Programming Languages</h4>
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
     <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
     <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
@@ -172,14 +171,19 @@ Note: <i> (click to see more details)</i>
     <code><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a></code>
     <code><a href="https://analytics.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" alt="Google Analytics" width="40" height="40"/></a></code>
     <code><a href="https://ads.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_171064.png" width="40" height="40"/></a></code>
+    <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
     <h4>Others</h4>
     <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
+    <code><a href="https://github.com" title="Git" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></code>
-    <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/><a></code>
-    <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a>
-    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a>
+    <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
+    <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
+    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a></code>
 </div>
 
 ---
