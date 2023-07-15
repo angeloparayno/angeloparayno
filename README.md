@@ -199,7 +199,7 @@ Note: <i> (click to see more details)</i>
 
 </details>
 <details> 
- <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[<i>COMPLETED</i>]</a></b></summary>
+ <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b></summary>
  
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
