@@ -68,7 +68,7 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 🔗 Additional Project Links
 <details> 
- <summary><b>Tableau</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno)">[<i>Profile Link</i>]</a></b></summary>
+ <summary><b>Tableau</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno">[<i>PROFILE LINK</i>]</a></b></summary>
  
 </details>
 
@@ -104,13 +104,13 @@ Note: <i> (click to see more details)</i>
  
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
-3. ✅ [Version Control](https://coursera.org/share/10e72b154fb0279e9958878bc1bddab1)
+3. ✅ [Version Control](https://www.coursera.org/account/accomplishments/certificate/WNU4JFBKA5YB)
 4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
-5. ❌ [React Basics]()
-6. ❌ [Advanced React]()
-7. ❌ [Principles of UX/UI Design]()
-8. ❌ [Front-End Developer Capstone]()
-9. ❌ [Coding Interview Preperation]()
+5. ❌ [React Basics](#)
+6. ❌ [Advanced React](#)
+7. ❌ [Principles of UX/UI Design](#)
+8. ❌ [Front-End Developer Capstone](#)
+9. ❌ [Coding Interview Preperation](#)
 
 
 </details>
