@@ -10,7 +10,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Software Engineering
 <details> 
- <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://public.tableau.com/app/profile/angeloparayno">[<i>LINK</i>]</a></b></summary>
+ <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[<i>LINK</i>]</a></b></summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
@@ -37,7 +37,7 @@ Note: <i> (click to see details of each project)</i>
  
 </details>
 <details> 
- <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/eta-coursera-html-css-portfolio-project">[<i>LINK</i>]</a></b></summary>
+ <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[<i>LINK</i>]</a></b></summary>
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
@@ -147,6 +147,7 @@ Note: <i> (click to see detailed list of projects)</i>
     * <b>Assignment:</b> Media Planner
 
 </details>
+-->
 
 ---
 ## 🔗 Additional Project Links
@@ -178,7 +179,6 @@ Note: <i> (click to see more details)</i>
  * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 💡
 
 </details>
--->
 
 ---
 ## 📚 Coursera
