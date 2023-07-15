@@ -2,11 +2,11 @@
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
-<p align ="center"><i>"Do it messy, than do nothing at all"</i></p>
+<p align="center"><i>"Do it messy, than do nothing at all"</i></p>
 
 ---
-## ⚙️ List of Projects
-<p><b>Note:</b> <i> (click to see details of each project)</i>
+<h2 align="center">⚙️ List of Projects</h2>
+<p><b>Note:</b> <i>(click to see details of each project)</i>
 
 #### Software Engineering 💻
 <details> 
