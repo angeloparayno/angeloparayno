@@ -8,7 +8,7 @@
 ## ⚙️ List of Projects
 Note: <i> (click to see details of each project)</i>
 
-#### 💻 Software Engineering
+#### Software Engineering 💻
 <details> 
  <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[REPO LINK]</a></b></summary>
 
@@ -28,7 +28,7 @@ Note: <i> (click to see details of each project)</i>
  
 </details>
 
-#### 🖥️ Web Development
+#### Web Development 🖥️
 <details> 
  <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[REPO LINK]</a></b></summary>
 
@@ -44,7 +44,7 @@ Note: <i> (click to see details of each project)</i>
  
 </details>
 
-#### 👨🏻‍💻 Simple Coding
+#### Simple Coding 👨🏻‍💻
 <details> 
  <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[REPO LINK]</a></b></summary>
 
@@ -58,7 +58,7 @@ Note: <i> (click to see details of each project)</i>
  
 </details>
 
-#### 📈 Data Analytics
+#### Data Analytics 📈
 <details> 
  <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[REPO LINK]</a></b></summary>
  
@@ -76,7 +76,7 @@ Note: <i> (click to see details of each project)</i>
 
 </details>
 
-#### 📺 Digital Marketing
+#### Digital Marketing 📺
 <details> 
  <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[REPO LINK]</a></b></summary>
 
@@ -182,7 +182,10 @@ Note: <i> (click to see more details)</i>
 
 ---
 ## 📚 Coursera
-<code>📖 <i>I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations pretty well</code>
+```
+📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations pretty well
+```
+
 <p>Note: <i> (click to see more details)</i>
 <details> 
  <summary><b>Meta Front-End Development Professional Certificate</b> - [<i>ON PROCESS</i>]</summary>
