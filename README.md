@@ -60,6 +60,7 @@ Note: <i> (click to see detailed list of projects)</i>
  <summary><b>(1) Digital Marketing 📺</b></summary> 
  
   * <b>[lego-media-plan](https://github.com/angeloparayno/lego-media-plan)</b> (2023)
+    * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of current working marketing strategies and capitalizing opportunities with the help of analytics
     * <b>Classification:</b> Case Study
     * <b>Assignment:</b> Media Planner
 
