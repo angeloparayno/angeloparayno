@@ -10,7 +10,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Software Engineering
 <details> 
- <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b></summary>
+ <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[REPO LINK]</a></b></summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
@@ -20,7 +20,7 @@ Note: <i> (click to see details of each project)</i>
 
 </details>
 <details> 
- <summary><b>attendance-monitoring-system..</b> (2014) - <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[LINK]</a></b></summary>
+ <summary><b>attendance-monitoring-system..</b> (2014) - <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[REPO LINK]</a></b></summary>
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
 * <b>Classification:</b> Client Facing (Group of 4)
@@ -30,14 +30,14 @@ Note: <i> (click to see details of each project)</i>
 
 ### Web Development
 <details> 
- <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[LINK]</a></b></summary>
+ <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[REPO LINK]</a></b></summary>
 
 * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
 * <b>Classification:</b> Personal Project
  
 </details>
 <details> 
- <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[LINK]</a></b></summary>
+ <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[REPO LINK]</a></b></summary>
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
@@ -46,13 +46,13 @@ Note: <i> (click to see details of each project)</i>
 
 ### Simple Coding
 <details> 
- <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[LINK<]</a></b></summary>
+ <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[REPO LINK]</a></b></summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
  
 </details>
 <details> 
- <summary><b>asm-codes</b> (2012) - <b><a href="https://github.com/angeloparayno/asm-codes">[LINK]</a></b></summary>
+ <summary><b>asm-codes</b> (2012) - <b><a href="https://github.com/angeloparayno/asm-codes">[REPO LINK]</a></b></summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
  
@@ -60,7 +60,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Data Analytics
 <details> 
- <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[LINK]</a></b></summary>
+ <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[REPO LINK]</a></b></summary>
  
  * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
   * <b>Classification</b> Client Facing (Group of 17)
@@ -68,7 +68,7 @@ Note: <i> (click to see details of each project)</i>
 
 </details>
 <details> 
- <summary><b>2021-nyc-youth-crime-rate</b> (2022) - <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[LINK]</a></b></summary>
+ <summary><b>2021-nyc-youth-crime-rate</b> (2022) - <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[REPO LINK]</a></b></summary>
  
  * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
  * <b>Classification:</b> Case Study (Group of 5)
@@ -78,7 +78,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Digital Marketing
 <details> 
- <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[LINK]</a></b></summary>
+ <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[REPO LINK]</a></b></summary>
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
 * <b>Classification:</b> Case Study
