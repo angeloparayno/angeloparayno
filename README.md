@@ -173,8 +173,8 @@ Note: <i> (click to see more details)</i>
     <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
     <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
     <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>   
-    <h4>Analytics<h4>
-        <code><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Tableau" width="40" height="40"/></a></code>
+    <h4>Analytics</h4>
+    <code><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Tableau" width="40" height="40"/></a></code>
     <code><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a></code>
     <code><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/></a></code>
     <code><a href="https://cloud.google.com/looker-studio" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYyo97CnJmL82j7uw02EA8oPGd6-rF5W_2TCUQYRO&s" alt="Tableau" width="40" height="40"/></a></code>
