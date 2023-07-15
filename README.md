@@ -46,7 +46,7 @@ Note: <i> (click to see details of each project)</i>
 
 ### Simple Coding
 <details> 
- <summary><b>simple-animations-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animations-using-java">[<i>LINK</i>]</a></b></summary>
+ <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[<i>LINK</i>]</a></b></summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
  
@@ -119,7 +119,7 @@ Note: <i> (click to see detailed list of projects)</i>
 <details>
  <summary><b>(2) Simple Coding 👨🏻‍💻</b></summary> 
  
- * <b>[simple-animations-using-java](https://github.com/angeloparayno/simple-animation-using-java)</b> (2015) 
+ * <b>[simple-animation-using-java](https://github.com/angeloparayno/simple-animation-using-java)</b> (2015) 
    * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
  * <b>[asm-codes](https://github.com/angeloparayno/asm-codes)</b> (2012)
    * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
