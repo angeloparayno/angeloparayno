@@ -13,7 +13,9 @@
 
 #### Software Engineering 💻
 <details> 
- <summary><b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)</summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)
+</summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
@@ -58,13 +60,17 @@
 ---
 #### Simple Coding 👨🏻‍💻
 <details> 
- <summary><b>simple-animation-using-java</b> (2015) - <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[REPO LINK]</a></b></summary>
+ <summary>
+   <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[LINK]</a></b> <b>simple-animation-using-java</b> (2015)
+  </summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
  
 </details>
 <details> 
- <summary><b>asm-codes</b> (2012) - <b><a href="https://github.com/angeloparayno/asm-codes">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/asm-codes">[LINK]</a></b> <b>asm-codes</b> (2012)
+</summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
  
@@ -73,7 +79,10 @@
 ---
 #### Data Analytics 📈
 <details> 
- <summary><b>bisa-wellness</b> (2022) - <b><a href="https://github.com/angeloparayno/bisa-wellness">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/bisa-wellness">[LINK]</a></b>
+  <b>bisa-wellness</b> (2022)
+ </summary>
  
  * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
   * <b>Classification</b> Client Facing (Group of 17)
@@ -81,7 +90,9 @@
 
 </details>
 <details> 
- <summary><b>2021-nyc-youth-crime-rate</b> (2022) - <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[REPO LINK]</a></b></summary>
+  <summary>
+    <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[LINK]</a></b> <b>2021-nyc-youth-crime-rate</b> (2022)
+  </summary>
  
  * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
  * <b>Classification:</b> Case Study (Group of 5)
@@ -92,7 +103,9 @@
 ---
 #### Digital Marketing 📺
 <details> 
- <summary><b>lego-media-plan</b> (2023) - <b><a href="https://github.com/angeloparayno/lego-media-plan">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/lego-media-plan">[LINK]</a></b> <b>lego-media-plan</b> (2023)
+</summary>
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
 * <b>Classification:</b> Case Study
@@ -166,14 +179,15 @@ Note: <i> (click to see detailed list of projects)</i>
 ---
 ## 🔗 Additional Project Links
 <details> 
- <summary><b>Tableau</b> - <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b></summary>
- 
+ <summary>
+ <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b> - <b>Tableau</b>
+ </summary>
 </details>
 
 ---
 <h1 align="center">🙋🏻‍♂️ About Me</h1>
 
-<p><b>Note:</b> <i> (click to see more details)</i></p>
+<p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
  <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
  
