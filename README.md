@@ -6,11 +6,14 @@
 
 ---
 <h1 align="center">⚙️ List of Projects</h1>
-<p><b>Note:</b> <i>(click to see details of each project)</i>
+<b>Note:</b> 
+
+* <i>click the <b>title</b> to see details of each project</i>
+* <i>click the <b>link</b> to direct to the repository</i>
 
 #### Software Engineering 💻
 <details> 
- <summary><b>fps-interactive-whiteboard</b> (2016) - <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[REPO LINK]</a></b></summary>
+ <summary><b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)</summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
@@ -20,7 +23,9 @@
 
 </details>
 <details> 
- <summary><b>attendance-monitoring-system..</b> (2014) - <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[LINK]</a></b> <b>attendance-monitoring-system..</b> (2014)
+ </summary>
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
 * <b>Classification:</b> Client Facing (Group of 4)
@@ -32,14 +37,18 @@
 
 #### Web Development 🖥️
 <details> 
- <summary><b>my-portoflio-website</b> (2023) - <b><a href="https://github.com/angeloparayno/my-portfolio-website">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/my-portfolio-website">[LINK]</a></b> <b>my-portoflio-website</b> (2023)
+</summary>
 
 * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
 * <b>Classification:</b> Personal Project
  
 </details>
 <details> 
- <summary><b>meta-coursera-html-css-portfolio-project</b> (2023) - <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[REPO LINK]</a></b></summary>
+ <summary>
+  <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-project</b> (2023)
+</summary>
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
@@ -182,18 +191,18 @@ Note: <i> (click to see detailed list of projects)</i>
  * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🌵
  * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🦋
  * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🏜️
- * ["My Responsibility?"](https://www.instagram.com/reel/CuQwsFXtBBs/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 💡
+ * ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 💡
 
 </details>
 
 ---
 ## 📚 Coursera
 
-<p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations pretty well</i><p>
+<p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
 <b>Note:</b> <i> (click to see more details)</i>
 <details> 
- <summary><b>Meta Front-End Development Professional Certificate</b> - [<i>ON PROCESS</i>]</summary>
+ <summary>[ON PROCESS] - <b>Meta Front-End Development Professional Certificate</b></summary>
  
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
@@ -208,7 +217,7 @@ Note: <i> (click to see detailed list of projects)</i>
 
 </details>
 <details> 
- <summary><b>Google Data Analytics Professional Certificate</b> - <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED] - </a></b><b>Google Data Analytics Professional Certificate</b></summary>
  
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
