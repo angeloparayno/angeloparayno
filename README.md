@@ -26,7 +26,7 @@
 </details>
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[LINK]</a></b> <b>attendance-monitoring-system..</b> (2014)
+  <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[LINK]</a></b> <b>attendance-monitoring-system-for-the-faculty-of-ust-iics</b> (2014)
  </summary>
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
