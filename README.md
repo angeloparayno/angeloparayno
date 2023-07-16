@@ -11,6 +11,7 @@
 * <i>click the <b>title</b> to see details of each project</i>
 * <i>click the <b>link</b> to direct to the repository</i>
 
+---
 #### Software Engineering 💻
 <details> 
  <summary>
