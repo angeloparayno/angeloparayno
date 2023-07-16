@@ -285,7 +285,7 @@ Note: <i> (click to see detailed list of projects)</i>
     <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
     -->
     <!-- Jest -->
-    <code><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a></code>
+    <code><a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a></code>
     <!-- VSCode -->
     <code><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"/></a></code>
     <!-- Bash -->
