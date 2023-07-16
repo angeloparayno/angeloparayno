@@ -35,8 +35,6 @@
  
 </details>
 
----
-
 #### Web Development 🖥️
 <details> 
  <summary>
@@ -57,7 +55,6 @@
  
 </details>
 
----
 #### Simple Coding 👨🏻‍💻
 <details> 
  <summary>
