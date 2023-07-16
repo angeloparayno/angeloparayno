@@ -73,7 +73,6 @@
  
 </details>
 
----
 #### Data Analytics 📈
 <details> 
  <summary>
@@ -97,7 +96,6 @@
 
 </details>
 
----
 #### Digital Marketing 📺
 <details> 
  <summary>
