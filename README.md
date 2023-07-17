@@ -1,4 +1,4 @@
-## Hello World, I'm Angelo🌴
+## Hello World, I'm Angelo!
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
@@ -12,7 +12,7 @@
 * <i>click the <b>link</b> to direct to the repository</i>
 
 
-#### Software Engineering 💻
+#### 💻 Software Engineering
 <details> 
  <summary>
   <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)
@@ -36,7 +36,7 @@
  
 </details>
 
-#### Web Development 🖥️
+#### 🖥️ Web Development
 <details> 
  <summary>
   <b><a href="https://github.com/angeloparayno/my-portfolio-website">[LINK]</a></b> <b>my-portoflio-website</b> (2023)
@@ -56,7 +56,7 @@
  
 </details>
 
-#### Simple Coding 👨🏻‍💻
+#### 👨🏻‍💻 Simple Coding
 <details> 
  <summary>
    <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[LINK]</a></b> <b>simple-animation-using-java</b> (2015)
@@ -74,7 +74,7 @@
  
 </details>
 
-#### Data Analytics 📈
+#### 📈 Data Analytics
 <details> 
  <summary>
   <b><a href="https://github.com/angeloparayno/bisa-wellness">[LINK]</a></b>
@@ -97,7 +97,7 @@
 
 </details>
 
-#### Digital Marketing 📺
+#### 📺 Digital Marketing
 <details> 
  <summary>
   <b><a href="https://github.com/angeloparayno/lego-media-plan">[LINK]</a></b> <b>lego-media-plan</b> (2023)
@@ -185,8 +185,8 @@ Note: <i> (click to see detailed list of projects)</i>
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
- <summary>I graduated with a <b>Bachelor of Science in Information Technology 🎓</b></summary>
- 
+ <summary>🎓 I graduated with a <b>Bachelor of Science in Information Technology</b></summary>
+  
   * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
   * Main Coursework: 
     * Software Engineering
@@ -194,14 +194,14 @@ Note: <i> (click to see detailed list of projects)</i>
     * Computer Networks
 </details>
 <details> 
- <summary>I post and edit <b>Instagram Reels</b> for fun 📱</summary>
+ <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
 
 #### Top Reels I've created:
- * ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🏖️ 
- * ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🌵
- * ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🦋
- * ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 🏜️
- * ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) 💡
+ * 🏖️ ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🌵 ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🦋 ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🏜️ ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🎡 ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 </details>
 
