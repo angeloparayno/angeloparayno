@@ -134,7 +134,7 @@ Note: <i> (click to see detailed list of projects)</i>
   * <b>[my-portoflio-website](https://github.com/angeloparayno/my-portfolio-website)</b> (2023)
     * <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
     * <b>Classification:</b> Personal Project
-  * <b>[meta-coursera-html-css-portfolio-project](https://github.com/angeloparayno/meta-coursera-portfolio-project)</b> (2023)
+  * <b>[meta-coursera-html-css-portfolio-assignment](https://github.com/angeloparayno/meta-coursera-portfolio-assignment)</b> (2023)
     * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
     * <b>Classification:</b> Module Assignment
     
