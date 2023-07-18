@@ -48,7 +48,7 @@
 </details>
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-project">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-project</b> (2023)
+  <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-assignment">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-assignment</b> (2023)
 </summary>
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
