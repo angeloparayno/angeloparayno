@@ -150,7 +150,7 @@
 </div>
 
 ---
-## 🛠 Languages and Tools
+## 🛠 Languages, Skills and Tools
 
 <div align="center"> 
     <h4>Main Development Tools</h4>
@@ -219,8 +219,12 @@
     <!-- Meta Business Suite -->
     <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
     <h4>Others</h4>
+    <!-- Cisco Networking Academy -->
+    <code><a href="https://www.netacad.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/360px-Cisco_academy_logo.svg.png?20120812062947" alt="Cisco Networking Academy" width="40" height="40"/></a></code>
+    <!-- SAP Business One -->
+    <code><a href="https://www.sap.com/products/erp/business-one.html" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/ytc/AAUvwnjpd7RqxTRyW1lSC1QOmCcGd7KIY1b-wY4_DNNgNw=s900-c-k-c0x00ffffff-no-rj" alt="SAP Business One" width="40" height="40"/></a></code>
     <!-- Notion -->
-    <code><a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789710&utm_medium=80211061601&utm_content=500427479647&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIkIWt9riPgAMVvzrUAR0jSAzuEAAYASAAEgKB9_D_BwE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <code><a href="https://www.notion.so/product?utm_source=google&utm_campaign=2075789710&utm_medium=80211061601&utm_content=500427479647&utm_term=notion&targetid=kwd-312974742&gclid=EAIaIQobChMIkIWt9riPgAMVvzrUAR0jSAzuEAAYASAAEgKB9_D_BwE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/></a></code>
     <!-- ChatGPT -->
     <code><a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1920px-ChatGPT_logo.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <!-- Calendly -->
