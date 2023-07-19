@@ -290,4 +290,4 @@
 </div>
 
 ---
-<p align="center"><i>"You don't need to delete anything, just keep creating something new"</i></p>
+<p align="center"><i>"There are things that can't be deleted, just keep creating something new"</i></p>
