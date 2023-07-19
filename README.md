@@ -2,8 +2,8 @@
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
-<!--<p align="center"><i>Do it messy, than do nothing at all</i></p>-->
-<p align="center"><i>Prioritize iterative development over stagnation</i><p>
+<p align="center"><i>Do it messy, than do nothing at all</i></p>
+<!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
 <h1 align="center">⚙️ List of Projects</h1>
@@ -291,4 +291,4 @@
 </div>
 
 ---
-<p align="center"><i>Acknowledge immutability, yet relentlessly pursue new creations</i></p>
+<p align="center"><i>Accept that there are things that can't be deleted, instead just keep creating new things</i></p>
