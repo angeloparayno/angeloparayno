@@ -288,3 +288,6 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloparayno&theme=onedark&custom_title=streak-stats&hide_border=true&layout=compact">
 </div>
+
+---
+<p align="center"><i>"You don't need to delete anything, just keep creating something new"</i></p>
