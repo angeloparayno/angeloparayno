@@ -291,4 +291,4 @@
 </div>
 
 ---
-<p align="center"><i>Accept that there are things that can't be deleted, instead just keep creating new things</i></p>
+<p align="center"><i>Acknowledge immutability, yet relentlessly pursue new creations</i></p>
