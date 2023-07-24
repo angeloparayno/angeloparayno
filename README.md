@@ -169,6 +169,8 @@
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
     <!-- CSS3 -->
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
+    <!-- SASS -->
+    <code><a href="https://sass-lang.com" title="SASS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png?20150315202757" alt="css" width="40" height="40"/></a></code>
     <!-- Bootstrap -->
     <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
     <!-- JavaScript -->
@@ -237,6 +239,8 @@
     <code><a href="https://calendly.com" target="_blank" rel="noreferrer"><img src="https://logosandtypes.com/wp-content/uploads/2022/09/calendly.svg" alt="Calendly" width="40" height="40"/></a></code>
     <!-- Adobe Photoshop -->
     <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <!-- Adobe LightRoom -->
+    <code><a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Adobe Lightroom" width="40" height="40"/></a></code>
     <!-- Adobe Premiere -->
     <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
     <!-- Canva -->
