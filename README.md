@@ -193,20 +193,6 @@
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <!-- OpenCV -->
     <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
-    <h4>Other Development Tools</h4>
-    <!-- C -->
-    <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://www.techbaz.org/Course/img/c-logo.png" alt="C" width="40" height="40"/></a></code>
-    <!-- Assembly -->
-    <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Assembly" width="40" height="40"/></a></code>
-    <!-- DB2 -->
-    <code><a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer"><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/></a></code>
-    <!-- NetBeans -->
-    <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
-    <!-- Ecclipse -->
-    <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
-    <!-- Arduino -->
-    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>   
-    <!----- Analytics ----->
     <h4>Analytics</h4>
     <!-- Excel -->
     <code><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Tableau" width="40" height="40"/></a></code>
@@ -226,6 +212,31 @@
     <code><a href="https://ads.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_171064.png" width="40" height="40"/></a></code>
     <!-- Meta Business Suite -->
     <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
+    <h4 align="center">Editing and Design</h4>
+    <!-- Adobe Photoshop -->
+    <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
+    <!-- Adobe LightRoom -->
+    <code><a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Adobe Lightroom" width="40" height="40"/></a></code>
+    <!-- Adobe Premiere -->
+    <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
+    <!-- Canva -->
+    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a></code>
+    <!-- Audacity -->
+    <code><a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/128px-Audacity_Logo.svg.png?20121030013421" alt="Audacity" width="40" height="40"/></a></code>
+    <h4>Other Development Tools</h4>
+    <!-- C -->
+    <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://www.techbaz.org/Course/img/c-logo.png" alt="C" width="40" height="40"/></a></code>
+    <!-- Assembly -->
+    <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Assembly" width="40" height="40"/></a></code>
+    <!-- DB2 -->
+    <code><a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer"><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/></a></code>
+    <!-- NetBeans -->
+    <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
+    <!-- Ecclipse -->
+    <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
+    <!-- Arduino -->
+    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>   
+    <!----- Analytics ----->
     <h4>Others</h4>
     <!-- Cisco Networking Academy -->
     <code><a href="https://www.netacad.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/360px-Cisco_academy_logo.svg.png?20120812062947" alt="Cisco Networking Academy" width="40" height="40"/></a></code>
@@ -237,14 +248,7 @@
     <code><a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1920px-ChatGPT_logo.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <!-- Calendly -->
     <code><a href="https://calendly.com" target="_blank" rel="noreferrer"><img src="https://logosandtypes.com/wp-content/uploads/2022/09/calendly.svg" alt="Calendly" width="40" height="40"/></a></code>
-    <!-- Adobe Photoshop -->
-    <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
-    <!-- Adobe LightRoom -->
-    <code><a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Adobe Lightroom" width="40" height="40"/></a></code>
-    <!-- Adobe Premiere -->
-    <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
-    <!-- Canva -->
-    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a></code>
+    
 </div>
 
 ---
