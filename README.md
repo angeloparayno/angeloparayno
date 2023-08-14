@@ -21,7 +21,7 @@
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
-* <b>Assignment:</b> Main Developer | Team Leader
+* <b>Role:</b> Main Developer | Team Leader
 * <b>Sub Project:</b> <b>[rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)</b> (2015)
   * <b>Description:</b> Built two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
 
@@ -33,7 +33,7 @@
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
 * <b>Classification:</b> Client Facing (Group of 4)
-* <b>Assignment:</b> Project Manager
+* <b>Role:</b> Project Manager
  
 </details>
 
@@ -84,7 +84,7 @@
  
  * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
   * <b>Classification</b> Client Facing (Group of 17)
-  * <b>Assignment:</b> Project Manager | Social Media Analyst
+  * <b>Role:</b> Project Manager | Social Media Analyst
 
 </details>
 <details> 
@@ -94,7 +94,7 @@
  
  * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
  * <b>Classification:</b> Case Study (Group of 5)
- * <b>Assignment:</b> Gender Demographics Analyst
+ * <b>Role:</b> Gender Demographics Analyst
 
 </details>
 
@@ -106,7 +106,7 @@
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
 * <b>Classification:</b> Case Study
-* <b>Assignment:</b> Media Planner
+* <b>Role:</b> Media Planner
  
 </details>
 
