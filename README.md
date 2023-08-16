@@ -43,8 +43,9 @@
   <b><a href="https://github.com/angeloparayno/my-portfolio-website">[LINK]</a></b> <b>my-portoflio-website</b> (2023)
 </summary>
 
-* <b>Description:</b> <b><i>⚠️Still Underconstruction!⚠️</b></i>
+* <b>Description:</b> Designed a responsive and animated site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox and <i>JavaScript</i>
 * <b>Classification:</b> Personal Project
+* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/my-portfolio-website/">[via GitHub Pages]</a>
  
 </details>
 <details> 
@@ -54,6 +55,7 @@
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
+* <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop">[via GitHub Pages]</a>
  
 </details>
 
@@ -64,6 +66,7 @@
   </summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
+ * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop">[via LinkedIn]</a>
  
 </details>
 <details> 
@@ -72,6 +75,7 @@
 </summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
+ * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop">[via LinkedIn]</a>
  
 </details>
 
