@@ -16,7 +16,7 @@
 #### 💻 Software Engineering
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)
+  <b><a href="https://github.com/angeloparayno/fps-interactive-whiteboard" target="_blank">[LINK]</a></b> <b>fps-interactive-whiteboard</b> (2016)
 </summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
@@ -28,7 +28,7 @@
 </details>
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics">[LINK]</a></b> <b>attendance-monitoring-system-for-the-faculty-of-ust-iics</b> (2014)
+  <b><a href="https://github.com/angeloparayno/attendance-monitoring-system-for-the-faculty-of-ust-iics" target="_blank">[LINK]</a></b> <b>attendance-monitoring-system-for-the-faculty-of-ust-iics</b> (2014)
  </summary>
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
@@ -40,49 +40,49 @@
 #### 🖥️ Web Development
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/my-portfolio-website">[LINK]</a></b> <b>my-portoflio-website</b> (2023)
+  <b><a href="https://github.com/angeloparayno/my-portfolio-website" target="_blank">[LINK]</a></b> <b>my-portoflio-website</b> (2023)
 </summary>
 
 * <b>Description:</b> Designed a responsive and animated site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox and <i>JavaScript</i>
 * <b>Classification:</b> Personal Project
-* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/my-portfolio-website/">[via GitHub Pages]</a>
+* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/my-portfolio-website" target="_blank">[via GitHub Pages]</a>
  
 </details>
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-assignment">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-assignment</b> (2023)
+  <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-assignment" target="_blank">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-assignment</b> (2023)
 </summary>
 
 * <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
-* <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop">[via GitHub Pages]</a>
+* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/meta-coursera-html-css-portfolio-assignment" target="_blank">[via GitHub Pages]</a>
  
 </details>
 
 #### 👨🏻‍💻 Simple Coding
 <details> 
  <summary>
-   <b><a href="https://github.com/angeloparayno/simple-animation-using-java">[LINK]</a></b> <b>simple-animation-using-java</b> (2015)
+   <b><a href="https://github.com/angeloparayno/simple-animation-using-java" target="_blank">[LINK]</a></b> <b>simple-animation-using-java</b> (2015)
   </summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
- * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop">[via LinkedIn]</a>
+ * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
  
 </details>
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/asm-codes">[LINK]</a></b> <b>asm-codes</b> (2012)
+  <b><a href="https://github.com/angeloparayno/asm-codes" target="_blank">[LINK]</a></b> <b>asm-codes</b> (2012)
 </summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
- * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop">[via LinkedIn]</a>
+ * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
  
 </details>
 
 #### 📈 Data Analytics
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/bisa-wellness">[LINK]</a></b>
+  <b><a href="https://github.com/angeloparayno/bisa-wellness" target="_blank">[LINK]</a></b>
   <b>bisa-wellness</b> (2022)
  </summary>
  
@@ -93,7 +93,7 @@
 </details>
 <details> 
   <summary>
-    <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate">[LINK]</a></b> <b>2021-nyc-youth-crime-rate</b> (2022)
+    <b><a href="https://github.com/angeloparayno/2021-nyc-youth-crime-rate" target="_blank">[LINK]</a></b> <b>2021-nyc-youth-crime-rate</b> (2022)
   </summary>
  
  * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
@@ -105,7 +105,7 @@
 #### 📺 Digital Marketing
 <details> 
  <summary>
-  <b><a href="https://github.com/angeloparayno/lego-media-plan">[LINK]</a></b> <b>lego-media-plan</b> (2023)
+  <b><a href="https://github.com/angeloparayno/lego-media-plan" target="_blank">[LINK]</a></b> <b>lego-media-plan</b> (2023)
 </summary>
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
