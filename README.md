@@ -53,7 +53,7 @@
   <b><a href="https://github.com/angeloparayno/meta-coursera-html-css-portfolio-assignment" target="_blank">[LINK]</a></b> <b>meta-coursera-html-css-portfolio-assignment</b> (2023)
 </summary>
 
-* <b>Description:</b> Designed a responsive one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
+* <b>Description:</b> Designed a mobile responsive, static one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
 * <b>Classification:</b> Module Assignment
 * <b>Demo Link:</b> <a href="https://angeloparayno.github.io/meta-coursera-html-css-portfolio-assignment" target="_blank">[via GitHub Pages]</a>
  
