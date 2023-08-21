@@ -109,7 +109,7 @@
 </summary>
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
-* <b>Classification:</b> Case Study
+* <b>Classification:</b> Case Study for Kepler
 * <b>Role:</b> Media Planner
  
 </details>
