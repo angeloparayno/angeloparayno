@@ -58,7 +58,7 @@
 </summary>
 
 * <b>Description:</b> Designed a mobile responsive, static one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
-* <b>Complexity:</b> ⭐️⭐️
+* <b>Complexity:</b> ⭐️
 * <b>Classification:</b> Module Assignment
 * <b>Demo Link:</b> <a href="https://angeloparayno.github.io/meta-coursera-html-css-portfolio-assignment" target="_blank">[via GitHub Pages]</a>
  
