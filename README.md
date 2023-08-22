@@ -20,10 +20,12 @@
 </summary>
 
 * <b>Description:</b> An interactive learning platform on a Windows Environment acquiring 100% accuracy on body movement and color tracking using <i>Microsoft Kinect</i> and <i>C++</i>
+* <b>Complexity:</b> ⭐️⭐️⭐️⭐️⭐️
 * <b>Classification:</b> Thesis | Capstone (Group of 4)
 * <b>Role:</b> Main Developer | Team Leader
 * <b>Sub Project:</b> <b>[rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)</b> (2015)
   * <b>Description:</b> Built two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
+  * <b>Complexity:</b> ⭐️⭐️⭐️⭐️
 
 </details>
 <details> 
@@ -32,6 +34,7 @@
  </summary>
 
 * <b>Description:</b> A process re-engineering project for the attendance system using <i>Java</i> and <i>MySQL</i>
+* <b>Complexity:</b> ⭐️⭐️⭐️⭐️⭐️
 * <b>Classification:</b> Client Facing (Group of 4)
 * <b>Role:</b> Project Manager
  
@@ -44,8 +47,9 @@
 </summary>
 
 * <b>Description:</b> Designed a responsive and animated site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox and <i>JavaScript</i>
+* <b>Complexity:</b> ⭐️⭐️⭐️
 * <b>Classification:</b> Personal Project
-* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/my-portfolio-website" target="_blank">[via GitHub Pages]</a>
+* <b>Demo Link:</b> <a href="https://angeloparayno.github.io/my-portfolio-website" target="_blank">www.angeloparayno.com</a>
  
 </details>
 <details> 
@@ -54,6 +58,7 @@
 </summary>
 
 * <b>Description:</b> Designed a mobile responsive, static one page site using <i>HTML</i>, vanilla <i>CSS</i> with Flexbox
+* <b>Complexity:</b> ⭐️⭐️
 * <b>Classification:</b> Module Assignment
 * <b>Demo Link:</b> <a href="https://angeloparayno.github.io/meta-coursera-html-css-portfolio-assignment" target="_blank">[via GitHub Pages]</a>
  
@@ -66,6 +71,7 @@
   </summary>
 
  * <b>Description:</b> A simple animation of an Anime character using pure <i>Java</i> with JFrame
+ * <b>Complexity:</b> ⭐️⭐️⭐️
  * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_an-old-project-from-my-treasure-box-simple-activity-7045579453598486528-rkgS?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
  
 </details>
@@ -75,7 +81,8 @@
 </summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
- * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
+* <b>Complexity:</b> ⭐️⭐️⭐️
+* <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
  
 </details>
 
@@ -87,6 +94,7 @@
  </summary>
  
  * <b>Description:</b> Analyzed social media data and provided digital marketing strategies aimed to solidify a successful product launch and market an eco-friendly and sustainable product, supplementing its current social media presence and business using <i>Meta, Business Suit</i>, <i>Tableau</i> and <i>Excel</i>
+  * <b>Complexity:</b> ⭐️⭐️⭐️
   * <b>Classification</b> Client Facing (Group of 17)
   * <b>Role:</b> Project Manager | Social Media Analyst
 
@@ -97,6 +105,7 @@
   </summary>
  
  * <b>Description:</b> Analyzed 2021 NYC Crime Rate through 150,000+ rows of data and correlated external studies on a mission of decreasing recidivism among the incarcerated youths (aged 25 & below) using <i>Python</i>, <i>Tableau</i> and <i>Excel</i>
+ * <b>Complexity:</b> ⭐️⭐️
  * <b>Classification:</b> Case Study (Group of 5)
  * <b>Role:</b> Gender Demographics Analyst
 
@@ -109,6 +118,7 @@
 </summary>
 
 * <b>Description:</b> <i>Created an annual budget allocation media plan in strategizing resource allocation through analyzation of the working marketing strategies and capitalizing the social media trends</i>
+* <b>Complexity:</b> ⭐️
 * <b>Classification:</b> Case Study for Kepler
 * <b>Role:</b> Media Planner
  
