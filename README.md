@@ -139,12 +139,13 @@
 <details> 
  <summary> 🧑🏻‍🏫 I'm currently a <b>Data Analytics Instructor</b></summary>
   
-  * At <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections.
-  * We teach
+  * At <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
+  * Curriculum
     * Python
     * SQL
     * Tableau
     * Advanced Excel
+
 </details>
 <details> 
  <summary>🎓 I graduated with a <b>Bachelor of Science in Information Technology</b></summary>
@@ -154,6 +155,7 @@
     * Software Engineering
     * Database Management
     * Computer Networks
+
 </details>
 <details> 
  <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
