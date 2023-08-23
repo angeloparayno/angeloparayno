@@ -137,10 +137,10 @@
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
- <summary> 🧑🏻‍🏫 I'm currently a <b>Data Analytics Instructor</b></summary>
+ <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
   
   * At <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
-  * Curriculum
+  * Main Curriculum: 
     * Python
     * SQL
     * Tableau
