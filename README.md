@@ -139,7 +139,7 @@
 <details> 
  <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
   
-  * At <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
+  * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
   * Main Curriculum: 
     * Python
     * SQL
