@@ -25,7 +25,7 @@
 * <b>Role:</b> Main Developer | Team Leader
 * <b>Sub Project:</b> <b>[rgb-led-flashlights](https://github.com/angeloparayno/RGB-LED-Flashlights)</b> (2015)
   * <b>Description:</b> Built two customized flashlight by encoding the <i>C</i> program in an <i>8 bit Atmel IC</i> to produce the designed output of the circuit
-  * <b>Complexity:</b> ⭐️⭐️⭐️⭐️
+  * <b>Complexity:</b> ⭐️⭐️⭐️
 
 </details>
 <details> 
@@ -81,7 +81,7 @@
 </summary>
  
 * <b>Description:</b> A list of simple <i>Assembly (ASM)</i> programs
-* <b>Complexity:</b> ⭐️⭐️⭐️
+* <b>Complexity:</b> ⭐️⭐️
 * <b>Demo Link:</b> <a href="https://www.linkedin.com/posts/angeloparayno_after-all-the-ai-chatgpt-google-bard-activity-7044446734051147776-puxD/?utm_source=share&utm_medium=member_desktop" target="_blank">[via LinkedIn]</a>
  
 </details>
@@ -137,14 +137,15 @@
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
- <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
+ <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Captain</b></summary>
   
   * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
-  * Main Curriculum: 
+  * Facilitating workshops on the following:
     * Python
     * SQL
     * Tableau
     * Advanced Excel
+    * Professional Networking
 
 </details>
 <details> 
