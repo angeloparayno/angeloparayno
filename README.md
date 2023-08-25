@@ -38,7 +38,7 @@
 * <b>Classification:</b> Client Facing (Group of 4)
 * <b>Role:</b> Project Manager
 
-<p align="center"><i>Note: only project documentation</i></p>
+<p align="center"><i>Note: project documentation only</i></p>
  
 </details>
 
