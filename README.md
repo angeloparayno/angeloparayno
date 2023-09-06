@@ -244,6 +244,8 @@
     <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
     <h4 align="center">Editing and Design</h4>
     <!-- Adobe Photoshop -->
+    <code><a href="https://www.figma.com/about/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" alt="Figma" width="40" height="40"/></a></code>
+    <!-- Adobe Photoshop -->
     <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <!-- Adobe LightRoom -->
     <code><a href="https://lightroom.adobe.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="Adobe Lightroom" width="40" height="40"/></a></code>
