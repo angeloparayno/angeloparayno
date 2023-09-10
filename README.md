@@ -139,7 +139,7 @@
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
- <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Captain</b></summary>
+ <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
   
   * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
   * Facilitating workshops on the following:
