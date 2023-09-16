@@ -2,7 +2,7 @@
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
-<p align="center"><i>Life's simple. You make choices and you don't look back.</i></p>
+<p align="center"><i>"Life's simple. You make choices and you don't look back"</i></p>
 <!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
