@@ -2,7 +2,7 @@
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
-<p align="center"><i>"Life's simple. You make choices and you don't look back"</i></p>
+<p align="center"><i>"Do it messy than do nothing at all"</i></p>
 <!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
@@ -336,5 +336,4 @@
 </div>
 
 ---
-<p align="center">"I'm the master of my fate, I'm the captain of my soul"</p>
-<p align="center">- William Ernest Henley (Invictus)</p>
+<p align="center">"Life's simple. You make choices and you don't look back"</p>
