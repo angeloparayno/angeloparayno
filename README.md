@@ -336,4 +336,4 @@
 </div>
 
 ---
-<p align="center">"Life's simple. You make choices and you don't look back"</p>
+<p align="center"><i>"Life's simple. You make choices and you don't look back"</i></p>
