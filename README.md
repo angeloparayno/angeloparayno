@@ -1,6 +1,6 @@
 ## Hello World, I'm Angelo!
 
-<p><b>Update 09/20/23</b>: Most contribution count disappeared after changing the email 😭</p>
+<p><b>Update 09/20/23</b>: Most contribution count disappeared after changing the email</p>
 
 ---
 <h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
