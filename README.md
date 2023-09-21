@@ -285,6 +285,7 @@
 
 ---
 ## 📚 Coursera
+<p>🔗<b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y">[PROFILE LINK]</a> - Coursera</b></p>
 
 <p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
