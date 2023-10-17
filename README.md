@@ -8,6 +8,44 @@
 <!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
+<h1 align="center">🙋🏻‍♂️ About Me</h1>
+
+<p><b>Note:</b> <i> click to see more details</i></p>
+<details> 
+ <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
+  
+  * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
+  * Facilitating workshops on the following:
+    * Python
+    * SQL
+    * Tableau
+    * Advanced Excel
+    * Professional Networking
+
+</details>
+<details> 
+ <summary>🎓 I graduated with a <b>Bachelor of Science in Information Technology</b></summary>
+  
+  * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
+  * Main Coursework: 
+    * Software Engineering
+    * Database Management
+    * Computer Networks
+
+</details>
+<details> 
+ <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
+
+#### Top Reels I've created:
+ * 🏖️ ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🌵 ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🦋 ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🏜️ ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+ * 🎡 ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+
+</details>
+
+---
 <h1 align="center">⚙️ List of Projects</h1>
 <b>Note:</b> 
 
@@ -134,44 +172,6 @@
  <summary>
  <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b> - <b>Tableau</b>
  </summary>
-</details>
-
----
-<h1 align="center">🙋🏻‍♂️ About Me</h1>
-
-<p><b>Note:</b> <i> click to see more details</i></p>
-<details> 
- <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
-  
-  * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
-  * Facilitating workshops on the following:
-    * Python
-    * SQL
-    * Tableau
-    * Advanced Excel
-    * Professional Networking
-
-</details>
-<details> 
- <summary>🎓 I graduated with a <b>Bachelor of Science in Information Technology</b></summary>
-  
-  * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
-  * Main Coursework: 
-    * Software Engineering
-    * Database Management
-    * Computer Networks
-
-</details>
-<details> 
- <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
-
-#### Top Reels I've created:
- * 🏖️ ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
- * 🌵 ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
- * 🦋 ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
- * 🏜️ ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
- * 🎡 ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-
 </details>
 
 ---
@@ -308,7 +308,7 @@
 
 </details>
 <details> 
- <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED] - </a></b><b>Google Data Analytics Professional Certificate</b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b><b> - Google Data Analytics Professional Certificate</b></summary>
  
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
