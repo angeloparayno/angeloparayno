@@ -166,6 +166,19 @@
  
 </details>
 
+#### 🎨 UI/UX
+<details> 
+ <summary>
+  <b><a href="https://github.com/angeloparayno/elderly-facility-app-prototype" target="_blank">[LINK]</a></b> <b>elderyly-facility-app-prototype</b> (2023)
+</summary>
+
+* <b>Description:</b> <i></i>
+* <b>Complexity:</b> ⭐️⭐️⭐️
+* <b>Classification:</b> 
+* <b>Role:</b> UI/UX Researcher
+ 
+</details>
+
 ---
 ## 🔗 Additional Project Links
 <details> 
@@ -287,7 +300,7 @@
 
 ---
 ## 📚 Coursera
-<p>🔗<b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y">[PROFILE LINK]</a> - Coursera</b></p>
+<p>🔗<b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y"> [PROFILE LINK]</a> - Coursera</b></p>
 
 <p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
