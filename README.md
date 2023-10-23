@@ -106,6 +106,19 @@
  
 </details>
 
+#### 🎨 UI/UX
+<details> 
+ <summary>
+  <b><a href="https://github.com/angeloparayno/elderly-facility-app-prototype" target="_blank">[LINK]</a></b> <b>elderyly-facility-app-prototype</b> (2023)
+</summary>
+
+* <b>Description:</b> <i></i>
+* <b>Complexity:</b> ⭐️⭐️⭐️
+* <b>Classification:</b> 
+* <b>Role:</b> UI/UX Researcher
+ 
+</details>
+
 #### 👨🏻‍💻 Simple Coding
 <details> 
  <summary>
@@ -163,19 +176,6 @@
 * <b>Complexity:</b> ⭐️
 * <b>Classification:</b> Case Study for Kepler
 * <b>Role:</b> Media Planner
- 
-</details>
-
-#### 🎨 UI/UX
-<details> 
- <summary>
-  <b><a href="https://github.com/angeloparayno/elderly-facility-app-prototype" target="_blank">[LINK]</a></b> <b>elderyly-facility-app-prototype</b> (2023)
-</summary>
-
-* <b>Description:</b> <i></i>
-* <b>Complexity:</b> ⭐️⭐️⭐️
-* <b>Classification:</b> 
-* <b>Role:</b> UI/UX Researcher
  
 </details>
 
