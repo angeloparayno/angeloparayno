@@ -190,7 +190,8 @@
 ---
 ## 🪪 Badges 
 <div align ="center">
-    <code><a href="https://career.skills.google/public_profiles/7baab628-436c-4aed-904a-b8bf377ad650/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="120" height="120"/></a></code>
+    <code>
+    <a href="https://career.skills.google/public_profiles/7baab628-436c-4aed-904a-b8bf377ad650/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="120" height="120"/></a></code>
     <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c/public_url" title="Google Data Analytics Professional" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="120" height="120"/></a></code>
     <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-OJHpb5z4RrOJPuJ-q5SqmQ.png?versionId=aF_GxWAsBtgHJeLf0b__M.w1ItoX2mG." alt="kepler academy badge" width="120" height="120"/></a></code>
 </div>
