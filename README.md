@@ -267,12 +267,12 @@
     <!-- Adobe Premiere -->
     <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
     <!-- Canva -->
-    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1200px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" width="40" height="40"/></a></code>
+    <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5b9fcfc54eddec7b4183cf67/1707404291899-P5L6YRH4QQ6UFO42SPJR/Canva_icon_2021.svg.png?format=1000w" alt="Canva" width="40" height="40"/></a></code>
     <!-- Audacity -->
     <code><a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/128px-Audacity_Logo.svg.png?20121030013421" alt="Audacity" width="40" height="40"/></a></code>
     <h4>Other Development Tools</h4>
     <!-- C -->
-    <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://www.techbaz.org/Course/img/c-logo.png" alt="C" width="40" height="40"/></a></code>
+    <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdJnqNzdGTamq-mSLUs9bOKQBKw8RL9WcPw&s" alt="C" width="40" height="40"/></a></code>
     <!-- Assembly -->
     <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Assembly" width="40" height="40"/></a></code>
     <!-- DB2 -->
