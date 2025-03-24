@@ -8,7 +8,7 @@
 <!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
@@ -46,7 +46,7 @@
 </details>
 
 ---
-<h1 align="center">List of Projects</h1>
+<h2 align="center">List of Projects</h2>
 <b>Note:</b> 
 
 * <i>click the <b>title</b> to see details of each project</i>
@@ -180,7 +180,7 @@
 </details>
 
 ---
-## Additional Project Links
+### Additional Project Links
 <details> 
  <summary>
  <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b> - <b>Tableau</b>
