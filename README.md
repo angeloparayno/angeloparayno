@@ -3,12 +3,12 @@
 <!-- <p><b>Update 09/20/23</b>: Most contribution count disappeared after changing the email</p> -->
 
 ---
-<h1 align ="center"> 🗣️: Welcome to my GitHub profile! </h1>
+<h1 align ="center"> Welcome to my GitHub profile! </h1>
 <p align="center"><i>"Do it messy than do nothing at all"</i></p>
 <!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
-<h1 align="center">🙋🏻‍♂️ About Me</h1>
+<h1 align="center">About Me</h1>
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
@@ -46,7 +46,7 @@
 </details>
 
 ---
-<h1 align="center">⚙️ List of Projects</h1>
+<h1 align="center">List of Projects</h1>
 <b>Note:</b> 
 
 * <i>click the <b>title</b> to see details of each project</i>
@@ -180,7 +180,7 @@
 </details>
 
 ---
-## 🔗 Additional Project Links
+## Additional Project Links
 <details> 
  <summary>
  <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b> - <b>Tableau</b>
@@ -188,7 +188,7 @@
 </details>
 
 ---
-## 🪪 Badges 
+## Badges 
 <div align ="center">
     <code><a href="https://career.skills.google/public_profiles/7baab628-436c-4aed-904a-b8bf377ad650/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="120" height="120"/></a></code>
     <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c/public_url" title="Google Data Analytics Professional" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="120" height="120"/></a></code>
@@ -196,7 +196,7 @@
 </div>
 
 ---
-## 🛠 Languages, Skills and Tools
+## Languages, Skills and Tools
 
 <div align="center"> 
     <h4>Main Development Tools</h4>
@@ -299,10 +299,10 @@
 </div>
 
 ---
-## 📚 Coursera
-<p>🔗<b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y"> [PROFILE LINK]</a> - Coursera</b></p>
+## Coursera
+<p><b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y"> [PROFILE LINK]</a></b></p>
 
-<p><i> 📖 I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
+<p><i> I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
 <b>Note:</b> <i> (click to see more details)</i>
 <details> 
@@ -344,7 +344,7 @@
 </details>
 
 ---
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact">
