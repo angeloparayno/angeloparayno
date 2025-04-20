@@ -33,17 +33,19 @@
     * Computer Networks
 
 </details>
+<!--
 <details> 
  <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
-
+<>
 #### Top Reels I've created:
  * 🏖️ ["Bird's in Laguna Beach"](https://www.instagram.com/reel/CaFMwuQlk4V/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * 🌵 ["A visit to Joshua Tree National Park"](https://www.instagram.com/reel/CskRIVKL7i9/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * 🦋 ["Butterflies in Houston"](https://www.instagram.com/reel/CZIp_kbsPnt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * 🏜️ ["Palmspring Paradise"](https://www.instagram.com/reel/Cs0G8a8v282/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
  * 🎡 ["Neon Lights at the Pier"](https://www.instagram.com/reel/Crp2_pcL0XN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
-
+<>
 </details>
+-->
 
 ---
 <h2 align="center">List of Projects</h2>
@@ -200,6 +202,9 @@
 ## Languages, Skills and Tools
 
 <div align="center"> 
+    <!-- -->
+    <!----- ----- ----- ----- ----- Main Development Tools ----- ----- ----- ----- ----->
+    <!-- -->
     <h4>Main Development Tools</h4>
     <!-- Python -->
     <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
@@ -222,7 +227,7 @@
     <!-- JavaScript -->
     <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
     <!-- Node.JS -->
-    <code><a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="nodejs" width="40" height="40"/></a></code>
+    <code><a href="https://nodejs.org/en/about" title="Node JS" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="nodejs" width="40" height="40"/></a></code>
     <!-- React -->
     <!--
     <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
@@ -239,6 +244,9 @@
     <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
     <!-- OpenCV -->
     <code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" width="40" height="40"/></a></code>
+    <!-- -->
+    <!----- ----- ----- ----- ----- Analytics ----- ----- ----- ----- ----->
+    <!-- -->
     <h4>Analytics</h4>
     <!-- Excel -->
     <code><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Tableau" width="40" height="40"/></a></code>
@@ -258,8 +266,11 @@
     <code><a href="https://ads.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_171064.png" width="40" height="40"/></a></code>
     <!-- Meta Business Suite -->
     <code><a href="https://business.facebook.com" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta.png" alt="Meta Business Suite" width="40" height="40"/></a></code>
+    <!-- -->
+    <!----- ----- ----- ----- ----- Editing and Design ----- ----- ----- ----- ----->
+    <!-- -->
     <h4 align="center">Editing and Design</h4>
-    <!-- Adobe Photoshop -->
+    <!-- Figma -->
     <code><a href="https://www.figma.com/about/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" alt="Figma" width="40" height="40"/></a></code>
     <!-- Adobe Photoshop -->
     <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1920px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
@@ -269,22 +280,31 @@
     <code><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" alt="Adobe Premiere" width="40" height="40"/></a></code>
     <!-- Canva -->
     <code><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://images.squarespace-cdn.com/content/v1/5b9fcfc54eddec7b4183cf67/1707404291899-P5L6YRH4QQ6UFO42SPJR/Canva_icon_2021.svg.png?format=1000w" alt="Canva" width="40" height="40"/></a></code>
+    <!-- Instagram Reels -->
+    <code><a href="https://about.instagram.com/features/reels" title="Instagram Reels" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Instagram_Reels_logo.svg/1920px-Instagram_Reels_logo.svg.png" alt="Instagram Reels" width="40" height="40"/></a></code>
     <!-- Audacity -->
     <code><a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/128px-Audacity_Logo.svg.png?20121030013421" alt="Audacity" width="40" height="40"/></a></code>
+    <!-- -->
+    <!----- ----- ----- ----- ----- Other Development Tools ----- ----- ----- ----- ----->
+    <!-- -->
     <h4>Other Development Tools</h4>
     <!-- C -->
     <code><a href="https://www.cprogramming.com" title="C" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdJnqNzdGTamq-mSLUs9bOKQBKw8RL9WcPw&s" alt="C" width="40" height="40"/></a></code>
+     <!-- Construct 3 -->
+    <code><a href="https://www.construct.net/en" title="Construct 3" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" alt="arduino" width="40" height="40"/></a></code> 
     <!-- Assembly -->
     <code><a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Assembly" width="40" height="40"/></a></code>
     <!-- DB2 -->
-    <code><a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer"><img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png" alt="IBM Db2" width="40" height="40"/></a></code>
+    <code><a href="https://www.ibm.com/analytics/db2" target="_blank" rel="noreferrer"><img src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" alt="IBM Db2" width="40" height="40"/></a></code>
     <!-- NetBeans -->
     <code><a href="https://netbeans.apache.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png?20180920122700" width="40" height="40"/></a></code>
     <!-- Ecclipse -->
     <code><a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/></a></code>
     <!-- Arduino -->
-    <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>   
-    <!----- Analytics ----->
+    <code><a href="https://www.arduino.cc/" title="Arudiuno" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></code>  
+    <!-- -->
+    <!----- ----- ----- ----- ----- Others ----- ----- ----- ----- ----->
+    <!-- -->
     <h4>Others</h4>
     <!-- Cisco Networking Academy -->
     <code><a href="https://www.netacad.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/360px-Cisco_academy_logo.svg.png?20120812062947" alt="Cisco Networking Academy" width="40" height="40"/></a></code>
@@ -296,7 +316,6 @@
     <code><a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1920px-ChatGPT_logo.svg.png" alt="Adobe Photoshop" width="40" height="40"/></a></code>
     <!-- Calendly -->
     <code><a href="https://calendly.com" target="_blank" rel="noreferrer"><img src="https://logosandtypes.com/wp-content/uploads/2022/09/calendly.svg" alt="Calendly" width="40" height="40"/></a></code>
-    
 </div>
 
 ---
@@ -306,40 +325,72 @@
 <p><i> I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
 <b>Note:</b> <i> (click to see more details)</i>
+
+<!----- ----- ----- ----- ----- Meta Front-End ----- ----- ----- ----- ----->
 <details> 
  <summary>[ON PROCESS] - <b>Meta Front-End Development Professional Certificate</b></summary>
  
-1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y)
-2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/certificate/FWDSV4RNCJ67)
-3. ✅ [Version Control](https://www.coursera.org/account/accomplishments/certificate/WNU4JFBKA5YB)
-4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/certificate/AXHNGPKXLRTD)
-5. ❌ [React Basics](#)
-6. ❌ [Advanced React](#)
-7. ❌ [Principles of UX/UI Design](#)
-8. ❌ [Front-End Developer Capstone](#)
-9. ❌ [Coding Interview Preperation](#)
-
+1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/QURVUCK7G37Y)
+2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/verify/FWDSV4RNCJ67)
+3. ✅ [Version Control](https://www.coursera.org/account/accomplishments/verify/WNU4JFBKA5YB)
+4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/verify/AXHNGPKXLRTD)
+5. ❌ [React Basics]()
+6. ❌ [Advanced React]()
+7. ❌ [Principles of UX/UI Design]()
+8. ❌ [Front-End Developer Capstone]()
+9. ❌ [Coding Interview Preperation]()
 
 </details>
+<br>
+<!----- ----- ----- ----- ----- Google Data Analytics ----- ----- ----- ----- ----->
 <details> 
  <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b><b> - Google Data Analytics Professional Certificate</b></summary>
  
-1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/QGS2M3H5U6WY)
-2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/76284BBDVPCF)
-3. ✅ [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/V4FSJARED6PH)
-4. ✅ [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/6QS6QCTVWSXY)
-5. ✅ [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/AUEDTK7TDGR2)
-6. ✅ [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/2J62G44XE428)
-7. ✅ [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/DM4SN8DP3AMF)
-8. ✅ [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/RJPF5A56X3Z4)
+1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/QGS2M3H5U6WY)
+2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/76284BBDVPCF)
+3. ✅ [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/verify/V4FSJARED6PH)
+4. ✅ [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/verify/6QS6QCTVWSXY)
+5. ✅ [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/verify/AUEDTK7TDGR2)
+6. ✅ [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/verify/2J62G44XE428)
+7. ✅ [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/DM4SN8DP3AMF)
+8. ✅ [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/account/accomplishments/verify/RJPF5A56X3Z4)
 
 </details>
+<br>
+<!----- ----- ----- ----- ----- Google Advanced Data Analytics ----- ----- ----- ----- ----->
+<details> 
+ <summary>[ON PROCESS]<b> - Google Advanced Data Analytics Professional Certificate</b></summary>
+ 
+1. ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/LEN2R7RJM5AS)
+2. ✅ [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/ZTR47ARCKR2Q)
+3. ✅ [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/verify/2K36GZ5HI9Q3)
+4. ❌ [The Power of Statistics]()
+5. ❌ [Regression Analysis: Simplify Complex Data]()
+6. ❌ [The Nuts and Bolts of Machine Learning]()
+7. ❌ [Google Advanced Data Analytics Capstone]()
+
+</details>
+<br>
+<!----- ----- ----- ----- ----- Google Cybersecurity ----- ----- ----- ----- ----->
+<details> 
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/professional-cert/R387AJ9UWWDF" target="_blank">[COMPLETED]</a></b><b> - Google Cybersecurity Professional Certificate</b></summary>
+ 
+1. ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/5BYMFVUBZ6XT)
+2. ✅ [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/3WS4JS6PK9UR)
+3. ✅ [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/J9ME9OKJ9IZ6)
+4. ✅ [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/AVP2H6ANPNUQ)
+5. ✅ [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/LL57QSJ1X7WP)
+6. ✅ [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/QRZF7MEMCUAT)
+7. ✅ [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/2SYL3N3H6MW8)
+8. ✅ [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/6YFVN5U6XEWJ)
+
+</details>
+<br>
+<!----- ----- ----- ----- ----- Individual Courses ----- ----- ----- ----- ----->
 <details> 
  <summary><b>Individual Courses</b></summary>
 
  - ✅ [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZY4RQ29J2XDY)
- - ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/LEN2R7RJM5AS)
- - ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/5BYMFVUBZ6XT)
  - ✅ [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/7RLQZLNFG467)
 
 </details>
