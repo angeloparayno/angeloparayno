@@ -5,7 +5,6 @@
 ---
 <h1 align ="center"> Welcome to my GitHub profile! </h1>
 <p align="center"><i>"Do it messy than do nothing at all"</i></p>
-<!--<p align="center"><i>Prioritize iterative development over stagnation</i><p>-->
 
 ---
 <h2 align="center">About Me</h2>
@@ -14,7 +13,7 @@
 <details> 
  <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
   
-  * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections
+  * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections3
   * Facilitating workshops on the following:
     * Python
     * SQL
@@ -27,10 +26,18 @@
  <summary>🎓 I graduated with a <b>Bachelor of Science in Information Technology</b></summary>
   
   * Graduated in the <b>[University of Santo Tomas](https://www.ust.edu.ph)</b>, Manila Philippines
-  * Main Coursework: 
+  * Main Coursework:
     * Software Engineering
     * Database Management
     * Computer Networks
+    * Data Structures and Algorithm
+    * Fundamentals of Problem Solving & Programming
+  * Other Coursework:
+    * Information Systems 
+    * Operating Systems
+    * Embedded Systems
+    * Discrete Mathematics
+    * Probability and Statistics
 
 </details>
 <!--
@@ -190,16 +197,16 @@
 </details>
 
 ---
-<h2 align="left">Badges</h2>
+<h2 align="center">Badges</h2>
 <div align ="center">
-    <code><a href="https://career.skills.google/public_profiles/7baab628-436c-4aed-904a-b8bf377ad650/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="200" height="200"/></a></code>
-    <code><a href="https://www.credly.com/earner/earned/badge/925add46-4596-4078-ab6e-87d529c4b53e" title="Google Cybersecurity Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google cybersecurity professional badge" width="200" height="200"/></a></code>
+    <code><a href="https://career.skills.google/public_profiles/3cff625e-8106-4e68-853b-03579a783ee3/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="200" height="200"/></a></code>
+    <code><a href="https://www.credly.com/badges/925add46-4596-4078-ab6e-87d529c4b53e" title="Google Cybersecurity Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google cybersecurity professional badge" width="200" height="200"/></a></code>
     <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c/public_url" title="Google Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="200" height="200"/></a></code>
     <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-OJHpb5z4RrOJPuJ-q5SqmQ.png?versionId=aF_GxWAsBtgHJeLf0b__M.w1ItoX2mG." alt="kepler academy badge" width="200" height="200"/></a></code>
 </div>
 
 ---
-## Languages, Skills and Tools
+<h2 align="center">Languages, Skills, & Tools</h2>
 
 <div align="center"> 
     <!-- -->
@@ -319,7 +326,7 @@
 </div>
 
 ---
-## Coursera
+<h2 align="center">Coursera</h2>
 <p><b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y"> [PROFILE LINK]</a></b></p>
 
 <p><i> I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
@@ -396,7 +403,7 @@
 </details>
 
 ---
-## Stats
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=angeloparayno&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact">
