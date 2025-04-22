@@ -327,7 +327,7 @@
 
 ---
 <h2 align="center">Coursera</h2>
-<p><b><a href="//www.coursera.org/account/accomplishments/certificate/QURVUCK7G37Y"> [PROFILE LINK]</a></b></p>
+<p><b><a href="https://www.coursera.org/user/23a8b92af14eb4cae12aebf6efc7855f"> [PROFILE LINK]</a></b></p>
 
 <p><i> I pick additional studies mostly through Coursera as they've a detailed and structured course of material that covers the fundamentals and layout the foundations for learning</i><p>
 
