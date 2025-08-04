@@ -199,10 +199,11 @@
 ---
 <h2 align="center">Badges</h2>
 <div align ="center">
-    <code><a href="https://career.skills.google/public_profiles/3cff625e-8106-4e68-853b-03579a783ee3/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="200" height="200"/></a></code>
     <code><a href="https://www.credly.com/badges/925add46-4596-4078-ab6e-87d529c4b53e" title="Google Cybersecurity Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google cybersecurity professional badge" width="200" height="200"/></a></code>
-    <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c/public_url" title="Google Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="200" height="200"/></a></code>
-    <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-OJHpb5z4RrOJPuJ-q5SqmQ.png?versionId=aF_GxWAsBtgHJeLf0b__M.w1ItoX2mG." alt="kepler academy badge" width="200" height="200"/></a></code>
+    <code><a href="https://www.credly.com/badges/91d1409e-9fe3-4847-9811-1e83a03871c2/public_url" title="Google Advanced Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="google advanced data analytics professional badge" width="200" height="200"/></a></code>
+    <code><a href="https://www.credly.com/badges/91d1409e-9fe3-4847-9811-1e83a03871c2/public_url" title="Google Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="200" height="200"/></a></code>
+    <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="200" height="200"/></a></code>
+    <code><a href="https://career.skills.google/public_profiles/3cff625e-8106-4e68-853b-03579a783ee3/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="200" height="200"/></a></code>
 </div>
 
 ---
@@ -333,19 +334,18 @@
 
 <b>Note:</b> <i> (click to see more details)</i>
 
-<!----- ----- ----- ----- ----- Meta Front-End ----- ----- ----- ----- ----->
+<!----- ----- ----- ----- ----- Google Advanced Data Analytics ----- ----- ----- ----- ----->
 <details> 
- <summary>[ON PROCESS] - <b>Meta Front-End Development Professional Certificate</b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/QDMQ1XNQI1XF" target="_blank">[COMPLETED]</a></b><b> - Google Advanced Data Analytics Professional Certificate</b></summary>
  
-1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/QURVUCK7G37Y)
-2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/verify/FWDSV4RNCJ67)
-3. ✅ [Version Control](https://www.coursera.org/account/accomplishments/verify/WNU4JFBKA5YB)
-4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/verify/AXHNGPKXLRTD)
-5. ❌ [React Basics]()
-6. ❌ [Advanced React]()
-7. ❌ [Principles of UX/UI Design]()
-8. ❌ [Front-End Developer Capstone]()
-9. ❌ [Coding Interview Preperation]()
+1. ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/LEN2R7RJM5AS)
+2. ✅ [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/ZTR47ARCKR2Q)
+3. ✅ [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/verify/2K36GZ5HI9Q3)
+4. ✅ [The Power of Statistics]()
+5. ✅ [Regression Analysis: Simplify Complex Data]()
+6. ✅ [The Nuts and Bolts of Machine Learning]()
+7. ✅ [Google Advanced Data Analytics Capstone]()
+8. ✅ [Accelerate Your Job Search with AI]()
 
 </details>
 <br>
@@ -364,20 +364,6 @@
 
 </details>
 <br>
-<!----- ----- ----- ----- ----- Google Advanced Data Analytics ----- ----- ----- ----- ----->
-<details> 
- <summary>[ON PROCESS]<b> - Google Advanced Data Analytics Professional Certificate</b></summary>
- 
-1. ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/LEN2R7RJM5AS)
-2. ✅ [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/ZTR47ARCKR2Q)
-3. ✅ [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/verify/2K36GZ5HI9Q3)
-4. ❌ [The Power of Statistics]()
-5. ❌ [Regression Analysis: Simplify Complex Data]()
-6. ❌ [The Nuts and Bolts of Machine Learning]()
-7. ❌ [Google Advanced Data Analytics Capstone]()
-
-</details>
-<br>
 <!----- ----- ----- ----- ----- Google Cybersecurity ----- ----- ----- ----- ----->
 <details> 
  <summary><b><a href="https://www.coursera.org/account/accomplishments/professional-cert/R387AJ9UWWDF" target="_blank">[COMPLETED]</a></b><b> - Google Cybersecurity Professional Certificate</b></summary>
@@ -390,6 +376,22 @@
 6. ✅ [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/QRZF7MEMCUAT)
 7. ✅ [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/2SYL3N3H6MW8)
 8. ✅ [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/6YFVN5U6XEWJ)
+
+</details>
+<br>
+<!----- ----- ----- ----- ----- Meta Front-End ----- ----- ----- ----- ----->
+<details> 
+ <summary>[ON PROCESS] - <b>Meta Front-End Development Professional Certificate</b></summary>
+ 
+1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/QURVUCK7G37Y)
+2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/verify/FWDSV4RNCJ67)
+3. ✅ [Version Control](https://www.coursera.org/account/accomplishments/verify/WNU4JFBKA5YB)
+4. ✅ [HTML and CSS in Depth](https://www.coursera.org/account/accomplishments/verify/AXHNGPKXLRTD)
+5. ❌ [React Basics]()
+6. ❌ [Advanced React]()
+7. ❌ [Principles of UX/UI Design]()
+8. ❌ [Front-End Developer Capstone]()
+9. ❌ [Coding Interview Preperation]()
 
 </details>
 <br>
