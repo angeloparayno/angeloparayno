@@ -336,22 +336,22 @@
 
 <!----- ----- ----- ----- ----- Google Advanced Data Analytics ----- ----- ----- ----- ----->
 <details> 
- <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/QDMQ1XNQI1XF" target="_blank">[COMPLETED]</a></b><b> - Google Advanced Data Analytics Professional Certificate</b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/QDMQ1XNQI1XF" target="_blank">[COMPLETED]</a></b><b> - 📊 Google Advanced Data Analytics Professional Certificate</b></summary>
  
 1. ✅ [Foundations of Data Science](https://www.coursera.org/account/accomplishments/verify/LEN2R7RJM5AS)
 2. ✅ [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/ZTR47ARCKR2Q)
 3. ✅ [Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/verify/2K36GZ5HI9Q3)
-4. ✅ [The Power of Statistics]()
-5. ✅ [Regression Analysis: Simplify Complex Data]()
-6. ✅ [The Nuts and Bolts of Machine Learning]()
-7. ✅ [Google Advanced Data Analytics Capstone]()
-8. ✅ [Accelerate Your Job Search with AI]()
+4. ✅ [The Power of Statistics](https://www.coursera.org/account/accomplishments/verify/2Y6L8Y2A8QSD)
+5. ✅ [Regression Analysis: Simplify Complex Data](https://www.coursera.org/account/accomplishments/verify/XBQD2TYOLR9Z)
+6. ✅ [The Nuts and Bolts of Machine Learning](https://www.coursera.org/account/accomplishments/verify/71GLQ1Y5QCF4)
+7. ✅ [Google Advanced Data Analytics Capstone](https://www.coursera.org/account/accomplishments/verify/5MS03JW0W57N)
+8. ✅ [Accelerate Your Job Search with AI](https://www.coursera.org/account/accomplishments/verify/OP4MRLGDPXN3)
 
 </details>
 <br>
 <!----- ----- ----- ----- ----- Google Data Analytics ----- ----- ----- ----- ----->
 <details> 
- <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b><b> - Google Data Analytics Professional Certificate</b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/specialization/BXA36D4YEHXV" target="_blank">[COMPLETED]</a></b><b> - 📊 Google Data Analytics Professional Certificate</b></summary>
  
 1. ✅ [Foundations Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/verify/QGS2M3H5U6WY)
 2. ✅ [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/verify/76284BBDVPCF)
@@ -366,7 +366,7 @@
 <br>
 <!----- ----- ----- ----- ----- Google Cybersecurity ----- ----- ----- ----- ----->
 <details> 
- <summary><b><a href="https://www.coursera.org/account/accomplishments/professional-cert/R387AJ9UWWDF" target="_blank">[COMPLETED]</a></b><b> - Google Cybersecurity Professional Certificate</b></summary>
+ <summary><b><a href="https://www.coursera.org/account/accomplishments/professional-cert/R387AJ9UWWDF" target="_blank">[COMPLETED]</a></b><b> - 🛜 Google Cybersecurity Professional Certificate</b></summary>
  
 1. ✅ [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/5BYMFVUBZ6XT)
 2. ✅ [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/3WS4JS6PK9UR)
@@ -381,7 +381,7 @@
 <br>
 <!----- ----- ----- ----- ----- Meta Front-End ----- ----- ----- ----- ----->
 <details> 
- <summary>[ON PROCESS] - <b>Meta Front-End Development Professional Certificate</b></summary>
+ <summary>[ON PROCESS] - <b> 👨🏻‍💻 Meta Front-End Development Professional Certificate</b></summary>
  
 1. ✅ [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/QURVUCK7G37Y)
 2. ✅ [Programming with Javascript](https://www.coursera.org/account/accomplishments/verify/FWDSV4RNCJ67)
