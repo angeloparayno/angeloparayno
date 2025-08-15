@@ -7,11 +7,22 @@
 <p align="center"><i>"Do it messy than do nothing at all"</i></p>
 
 ---
+<h2 align="center">Badges</h2>
+<div align ="center">
+    <code><a href="https://www.credly.com/badges/925add46-4596-4078-ab6e-87d529c4b53e" title="Google Cybersecurity Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google cybersecurity professional badge" width="120" height="120"/></a></code>
+    <code><a href="https://www.credly.com/badges/91d1409e-9fe3-4847-9811-1e83a03871c2/public_url" title="Google Advanced Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="google advanced data analytics professional badge" width="120" height="120"/></a></code>
+    <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c" title="Google Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="120" height="120"/></a></code>
+    <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="120" height="120"/></a></code>
+    <code><a href="https://career.skills.google/public_profiles/3cff625e-8106-4e68-853b-03579a783ee3/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="120" height="120"/></a></code>
+</div>
+
+
+---
 <h2 align="center">About Me</h2>
 
 <p><b>Note:</b> <i> click to see more details</i></p>
 <details> 
- <summary> 🧑🏻‍🏫 I'm a <b>Data Analytics Instructor</b></summary>
+ <summary> 🧑🏻‍🏫 I'm a <b>Senior Data Analytics Instructor</b></summary>
   
   * Working at <b>[COOP Careers](https://coopcareers.org)</b>, with its mission in <b>over</b>coming <b>under</b>employment through digital skills and peer connections3
   * Facilitating workshops on the following:
@@ -40,6 +51,7 @@
     * Probability and Statistics
 
 </details>
+
 <!--
 <details> 
  <summary>📱 I post and edit <b>Instagram Reels</b> for fun</summary>
@@ -195,16 +207,6 @@
  <b><a href="https://public.tableau.com/app/profile/angeloparayno" target="_blank">[PROFILE LINK]</a></b> - <b>Tableau</b>
  </summary>
 </details>
-
----
-<h2 align="center">Badges</h2>
-<div align ="center">
-    <code><a href="https://www.credly.com/badges/925add46-4596-4078-ab6e-87d529c4b53e" title="Google Cybersecurity Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="google cybersecurity professional badge" width="200" height="200"/></a></code>
-    <code><a href="https://www.credly.com/badges/91d1409e-9fe3-4847-9811-1e83a03871c2/public_url" title="Google Advanced Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="google advanced data analytics professional badge" width="200" height="200"/></a></code>
-    <code><a href="https://www.credly.com/badges/73479310-b809-45df-86ab-8935444ac76c" title="Google Data Analytics Certificate" target="_blank"><img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google data analytics professional badge" width="200" height="200"/></a></code>
-    <code><a href="https://badgr.com/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ?identity__email=j.angelo.parayno@gmail.com" title="Kepler Academy Digital Marketing Graduate" target="_blank"><img src="https://api.badgr.io/public/assertions/OJHpb5z4RrOJPuJ-q5SqmQ/image" alt="kepler academy badge" width="200" height="200"/></a></code>
-    <code><a href="https://career.skills.google/public_profiles/3cff625e-8106-4e68-853b-03579a783ee3/badges/4577418" title="Google Agile Essentials" target="_blank"><img src="https://cdn.qwiklabs.com/K0U8aJ6SmmsPDWm8KwM15fUFQl2WqL9P5Dd1oQrVbxo%3D" alt="google agile essentials badge" width="200" height="200"/></a></code>
-</div>
 
 ---
 <h2 align="center">Languages, Skills, & Tools</h2>
